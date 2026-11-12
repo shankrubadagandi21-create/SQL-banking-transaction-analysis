@@ -66,6 +66,4 @@ An unusual transaction is considered an anomaly candidate and does not automatic
 
 Data analytics
 
-Aspiring Data Analyst
 
-Skills: SQL | Excel | Power BI | Python
