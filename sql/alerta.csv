@@ -1,0 +1,4051 @@
+alert_id,transaction_id,alert_reason,alert_status
+1,505167,Outside-hours transaction,Closed
+2,505167,Failed transaction,Open
+3,502491,Outside-hours transaction,Open
+4,506441,Outside-hours transaction,Closed
+5,501215,Outside-hours transaction,Under Review
+6,501571,Failed transaction,Open
+7,509466,High-value transaction (>= 100000),Open
+8,508154,Outside-hours transaction,Open
+9,507444,Outside-hours transaction,Closed
+10,505694,Outside-hours transaction,Open
+11,509885,Outside-hours transaction,Closed
+12,502838,Outside-hours transaction,Closed
+13,508204,Outside-hours transaction,Closed
+14,504571,Outside-hours transaction,Open
+15,506456,Outside-hours transaction,Closed
+16,508221,Outside-hours transaction,Under Review
+17,508221,Failed transaction,Open
+18,506285,Outside-hours transaction,Open
+19,508601,Outside-hours transaction,Open
+20,503079,Outside-hours transaction,Open
+21,508547,Outside-hours transaction,Open
+22,506523,Outside-hours transaction,Closed
+23,505105,Outside-hours transaction,Closed
+24,505105,Failed transaction,Open
+25,504991,Outside-hours transaction,Closed
+26,505592,Outside-hours transaction,Open
+27,505592,Failed transaction,Closed
+28,503197,Outside-hours transaction,Closed
+29,503757,Outside-hours transaction,Closed
+30,505052,Outside-hours transaction,Closed
+31,503897,Outside-hours transaction,Under Review
+32,503897,Failed transaction,Open
+33,501135,Failed transaction,Under Review
+34,507686,Outside-hours transaction,Closed
+35,507686,Failed transaction,Under Review
+36,509344,Outside-hours transaction,Open
+37,507539,Outside-hours transaction,Open
+38,505066,Outside-hours transaction,Closed
+39,500361,Outside-hours transaction,Under Review
+40,504139,High-value transaction (>= 100000),Under Review
+41,500956,High-value transaction (>= 100000),Under Review
+42,507192,Failed transaction,Open
+43,500851,Failed transaction,Open
+44,509007,Outside-hours transaction,Under Review
+45,507175,Outside-hours transaction,Open
+46,507992,Outside-hours transaction,Open
+47,507358,Outside-hours transaction,Under Review
+48,503044,Outside-hours transaction,Open
+49,507445,Outside-hours transaction,Under Review
+50,502652,Outside-hours transaction,Under Review
+51,502200,Outside-hours transaction,Closed
+52,508979,Outside-hours transaction,Under Review
+53,502827,Outside-hours transaction,Open
+54,506123,Failed transaction,Closed
+55,505573,Failed transaction,Under Review
+56,505525,Failed transaction,Closed
+57,509184,Outside-hours transaction,Open
+58,501273,Outside-hours transaction,Under Review
+59,507437,High-value transaction (>= 100000),Open
+60,507437,Outside-hours transaction,Closed
+61,507437,Failed transaction,Under Review
+62,509405,Outside-hours transaction,Closed
+63,503754,Outside-hours transaction,Closed
+64,503790,Outside-hours transaction,Under Review
+65,507699,Outside-hours transaction,Closed
+66,508912,Outside-hours transaction,Open
+67,504562,High-value transaction (>= 100000),Closed
+68,504562,Outside-hours transaction,Open
+69,505720,Failed transaction,Open
+70,507022,Failed transaction,Closed
+71,508278,Outside-hours transaction,Open
+72,503153,Outside-hours transaction,Under Review
+73,502542,Outside-hours transaction,Open
+74,503014,Outside-hours transaction,Open
+75,509171,Outside-hours transaction,Open
+76,509171,Failed transaction,Under Review
+77,508068,Outside-hours transaction,Under Review
+78,509234,Outside-hours transaction,Under Review
+79,504617,Outside-hours transaction,Closed
+80,501966,Failed transaction,Under Review
+81,503281,Failed transaction,Open
+82,508524,Failed transaction,Under Review
+83,508535,Outside-hours transaction,Under Review
+84,508535,Failed transaction,Open
+85,506573,Outside-hours transaction,Closed
+86,506683,Outside-hours transaction,Under Review
+87,502383,Outside-hours transaction,Closed
+88,508723,Outside-hours transaction,Closed
+89,507052,Outside-hours transaction,Closed
+90,504436,Outside-hours transaction,Open
+91,501606,Outside-hours transaction,Closed
+92,507907,Outside-hours transaction,Closed
+93,502884,Outside-hours transaction,Open
+94,507836,Outside-hours transaction,Closed
+95,507589,Outside-hours transaction,Closed
+96,509627,Failed transaction,Open
+97,502877,Failed transaction,Open
+98,508231,Outside-hours transaction,Under Review
+99,506005,Outside-hours transaction,Under Review
+100,502747,Outside-hours transaction,Under Review
+101,502747,Failed transaction,Closed
+102,505991,Outside-hours transaction,Closed
+103,506311,Outside-hours transaction,Closed
+104,506348,Outside-hours transaction,Open
+105,506348,Failed transaction,Closed
+106,509710,Outside-hours transaction,Under Review
+107,509350,Outside-hours transaction,Open
+108,506740,Outside-hours transaction,Open
+109,500997,Failed transaction,Open
+110,500037,Multiple transactions within 10 minutes,Under Review
+111,500038,Multiple transactions within 10 minutes,Under Review
+112,500039,Multiple transactions within 10 minutes,Under Review
+113,500097,Multiple transactions within 10 minutes,Open
+114,500098,Multiple transactions within 10 minutes,Open
+115,500099,Multiple transactions within 10 minutes,Closed
+116,508684,High-value transaction (>= 100000),Closed
+117,501116,Outside-hours transaction,Under Review
+118,508808,Outside-hours transaction,Open
+119,508872,Outside-hours transaction,Closed
+120,501492,Outside-hours transaction,Under Review
+121,504950,Outside-hours transaction,Under Review
+122,500783,Outside-hours transaction,Closed
+123,503259,Outside-hours transaction,Under Review
+124,502722,Outside-hours transaction,Open
+125,509814,Outside-hours transaction,Under Review
+126,505172,Outside-hours transaction,Open
+127,505925,Outside-hours transaction,Open
+128,501126,Outside-hours transaction,Closed
+129,505216,Outside-hours transaction,Closed
+130,507342,Failed transaction,Closed
+131,500911,Outside-hours transaction,Under Review
+132,508790,Outside-hours transaction,Closed
+133,506365,Outside-hours transaction,Closed
+134,500970,Outside-hours transaction,Under Review
+135,507845,Outside-hours transaction,Closed
+136,509936,Outside-hours transaction,Under Review
+137,502494,Outside-hours transaction,Under Review
+138,509399,Failed transaction,Open
+139,507293,Outside-hours transaction,Open
+140,509395,Outside-hours transaction,Closed
+141,509239,Outside-hours transaction,Under Review
+142,504841,Outside-hours transaction,Open
+143,509673,Outside-hours transaction,Open
+144,502076,Outside-hours transaction,Open
+145,507556,Outside-hours transaction,Open
+146,502949,Outside-hours transaction,Closed
+147,503557,Outside-hours transaction,Open
+148,505703,Failed transaction,Closed
+149,503344,Failed transaction,Under Review
+150,500223,Multiple transactions within 10 minutes,Closed
+151,500224,Multiple transactions within 10 minutes,Open
+152,500225,Multiple transactions within 10 minutes,Under Review
+153,506459,Outside-hours transaction,Under Review
+154,503561,Outside-hours transaction,Closed
+155,509951,High-value transaction (>= 100000),Under Review
+156,509951,Outside-hours transaction,Closed
+157,509375,Outside-hours transaction,Under Review
+158,507627,Outside-hours transaction,Closed
+159,509121,Outside-hours transaction,Open
+160,509121,Failed transaction,Closed
+161,504488,Outside-hours transaction,Closed
+162,501607,Outside-hours transaction,Open
+163,500489,Outside-hours transaction,Closed
+164,500915,Outside-hours transaction,Closed
+165,501590,Outside-hours transaction,Under Review
+166,509918,High-value transaction (>= 100000),Closed
+167,509918,Outside-hours transaction,Under Review
+168,503496,Outside-hours transaction,Open
+169,505106,Failed transaction,Under Review
+170,501319,Failed transaction,Under Review
+171,505290,Outside-hours transaction,Open
+172,504852,Outside-hours transaction,Under Review
+173,502853,Outside-hours transaction,Open
+174,505128,Outside-hours transaction,Closed
+175,506825,Outside-hours transaction,Closed
+176,504341,Outside-hours transaction,Under Review
+177,502287,Outside-hours transaction,Closed
+178,502236,Failed transaction,Open
+179,508938,Outside-hours transaction,Closed
+180,504216,Outside-hours transaction,Open
+181,504697,Outside-hours transaction,Closed
+182,507719,Outside-hours transaction,Under Review
+183,509893,Outside-hours transaction,Closed
+184,506590,Outside-hours transaction,Closed
+185,505604,Outside-hours transaction,Closed
+186,505043,Outside-hours transaction,Open
+187,503748,Outside-hours transaction,Open
+188,501398,Outside-hours transaction,Under Review
+189,507245,Outside-hours transaction,Open
+190,503812,Failed transaction,Closed
+191,502119,Outside-hours transaction,Closed
+192,503572,Outside-hours transaction,Open
+193,509913,Outside-hours transaction,Closed
+194,507215,Outside-hours transaction,Under Review
+195,506647,Outside-hours transaction,Under Review
+196,506647,Failed transaction,Open
+197,506145,Outside-hours transaction,Open
+198,504553,Outside-hours transaction,Under Review
+199,501094,Outside-hours transaction,Under Review
+200,505423,Outside-hours transaction,Open
+201,500402,Failed transaction,Open
+202,503290,Failed transaction,Open
+203,509949,Outside-hours transaction,Closed
+204,505700,Outside-hours transaction,Open
+205,503684,Outside-hours transaction,Open
+206,504736,Outside-hours transaction,Closed
+207,501018,Outside-hours transaction,Under Review
+208,500004,Multiple transactions within 10 minutes,Open
+209,500005,Multiple transactions within 10 minutes,Closed
+210,500006,Multiple transactions within 10 minutes,Open
+211,502916,Outside-hours transaction,Open
+212,504619,Outside-hours transaction,Closed
+213,509736,Outside-hours transaction,Under Review
+214,503032,Outside-hours transaction,Closed
+215,505251,Outside-hours transaction,Open
+216,505488,Outside-hours transaction,Under Review
+217,509545,Outside-hours transaction,Closed
+218,509545,Failed transaction,Closed
+219,502173,Outside-hours transaction,Under Review
+220,502495,Outside-hours transaction,Open
+221,505721,Failed transaction,Closed
+222,504575,Failed transaction,Closed
+223,506306,Outside-hours transaction,Closed
+224,507103,Outside-hours transaction,Open
+225,500537,Outside-hours transaction,Closed
+226,502162,Outside-hours transaction,Under Review
+227,506396,Outside-hours transaction,Under Review
+228,507752,Outside-hours transaction,Closed
+229,505133,Outside-hours transaction,Closed
+230,509446,Outside-hours transaction,Under Review
+231,504479,Outside-hours transaction,Under Review
+232,504975,Outside-hours transaction,Closed
+233,505415,Outside-hours transaction,Under Review
+234,505619,Outside-hours transaction,Open
+235,500580,Outside-hours transaction,Open
+236,508175,Outside-hours transaction,Open
+237,503645,Outside-hours transaction,Open
+238,509166,Outside-hours transaction,Under Review
+239,509417,Failed transaction,Open
+240,507462,Outside-hours transaction,Closed
+241,501391,Outside-hours transaction,Closed
+242,507684,Outside-hours transaction,Open
+243,508526,Outside-hours transaction,Closed
+244,501618,Outside-hours transaction,Open
+245,507765,Outside-hours transaction,Open
+246,506211,Outside-hours transaction,Open
+247,508948,Failed transaction,Closed
+248,505147,Outside-hours transaction,Closed
+249,506198,Outside-hours transaction,Open
+250,502185,Outside-hours transaction,Open
+251,505607,Outside-hours transaction,Open
+252,505123,Outside-hours transaction,Open
+253,500498,Outside-hours transaction,Under Review
+254,500498,Failed transaction,Open
+255,505305,Failed transaction,Closed
+256,503725,Failed transaction,Open
+257,500349,Outside-hours transaction,Under Review
+258,502221,Outside-hours transaction,Closed
+259,508582,Outside-hours transaction,Under Review
+260,506833,Outside-hours transaction,Open
+261,502633,Outside-hours transaction,Closed
+262,502633,Failed transaction,Open
+263,503483,Outside-hours transaction,Closed
+264,506450,Outside-hours transaction,Closed
+265,506383,Outside-hours transaction,Closed
+266,500545,Failed transaction,Under Review
+267,505414,Failed transaction,Open
+268,502874,Failed transaction,Under Review
+269,506859,Outside-hours transaction,Under Review
+270,505647,Outside-hours transaction,Open
+271,506359,Outside-hours transaction,Open
+272,505441,Outside-hours transaction,Open
+273,505441,Failed transaction,Closed
+274,501011,Outside-hours transaction,Under Review
+275,502118,Outside-hours transaction,Under Review
+276,500355,Outside-hours transaction,Under Review
+277,500277,Multiple transactions within 10 minutes,Under Review
+278,500278,Multiple transactions within 10 minutes,Under Review
+279,500279,Multiple transactions within 10 minutes,Closed
+280,502147,Failed transaction,Open
+281,507645,Failed transaction,Closed
+282,505469,Outside-hours transaction,Closed
+283,502644,Outside-hours transaction,Closed
+284,500487,Outside-hours transaction,Open
+285,503381,Outside-hours transaction,Open
+286,508025,Outside-hours transaction,Under Review
+287,503698,Outside-hours transaction,Closed
+288,503698,Failed transaction,Under Review
+289,508178,Outside-hours transaction,Open
+290,500736,Outside-hours transaction,Open
+291,502180,Outside-hours transaction,Open
+292,509317,Failed transaction,Open
+293,506432,Failed transaction,Closed
+294,503627,Outside-hours transaction,Under Review
+295,505084,Outside-hours transaction,Open
+296,503911,Outside-hours transaction,Under Review
+297,509990,Outside-hours transaction,Open
+298,508306,Outside-hours transaction,Under Review
+299,506734,Outside-hours transaction,Under Review
+300,501333,Failed transaction,Open
+301,500548,Outside-hours transaction,Open
+302,501813,Outside-hours transaction,Under Review
+303,505950,Outside-hours transaction,Closed
+304,506813,Outside-hours transaction,Open
+305,507891,Outside-hours transaction,Open
+306,504231,Outside-hours transaction,Closed
+307,504231,Failed transaction,Closed
+308,504928,Outside-hours transaction,Open
+309,509755,Outside-hours transaction,Open
+310,500539,Failed transaction,Open
+311,502483,Failed transaction,Open
+312,503819,Outside-hours transaction,Under Review
+313,507625,Outside-hours transaction,Under Review
+314,506124,Outside-hours transaction,Under Review
+315,507888,Outside-hours transaction,Open
+316,508250,Outside-hours transaction,Under Review
+317,500876,Outside-hours transaction,Open
+318,505723,Outside-hours transaction,Open
+319,504123,Outside-hours transaction,Under Review
+320,501174,Failed transaction,Open
+321,508858,High-value transaction (>= 100000),Under Review
+322,507007,Outside-hours transaction,Under Review
+323,507007,Failed transaction,Under Review
+324,502641,Outside-hours transaction,Under Review
+325,502307,Failed transaction,Under Review
+326,502790,Failed transaction,Closed
+327,506423,Outside-hours transaction,Closed
+328,505981,Outside-hours transaction,Closed
+329,501710,Outside-hours transaction,Closed
+330,501710,Failed transaction,Closed
+331,500819,Outside-hours transaction,Under Review
+332,506116,Outside-hours transaction,Open
+333,501770,Outside-hours transaction,Open
+334,503742,Outside-hours transaction,Under Review
+335,507768,Outside-hours transaction,Open
+336,506677,Outside-hours transaction,Open
+337,507922,Outside-hours transaction,Closed
+338,505584,Outside-hours transaction,Closed
+339,508281,Outside-hours transaction,Closed
+340,500847,Outside-hours transaction,Open
+341,505761,Outside-hours transaction,Closed
+342,505761,Failed transaction,Under Review
+343,501611,Outside-hours transaction,Open
+344,502246,Outside-hours transaction,Open
+345,507812,Outside-hours transaction,Closed
+346,500723,Outside-hours transaction,Under Review
+347,504509,Outside-hours transaction,Closed
+348,509740,Outside-hours transaction,Closed
+349,506571,Outside-hours transaction,Open
+350,500268,Multiple transactions within 10 minutes,Open
+351,500269,Multiple transactions within 10 minutes,Closed
+352,500270,Multiple transactions within 10 minutes,Open
+353,505772,Outside-hours transaction,Open
+354,502140,Outside-hours transaction,Open
+355,508596,Outside-hours transaction,Closed
+356,507856,Outside-hours transaction,Open
+357,503207,Outside-hours transaction,Closed
+358,501577,Outside-hours transaction,Open
+359,501577,Failed transaction,Under Review
+360,509923,Outside-hours transaction,Open
+361,506192,Failed transaction,Closed
+362,502615,Outside-hours transaction,Open
+363,502088,Outside-hours transaction,Closed
+364,507397,Outside-hours transaction,Closed
+365,507489,Outside-hours transaction,Open
+366,503149,Outside-hours transaction,Closed
+367,507963,Outside-hours transaction,Open
+368,506486,Outside-hours transaction,Under Review
+369,508125,Outside-hours transaction,Closed
+370,507033,Outside-hours transaction,Closed
+371,505003,Outside-hours transaction,Closed
+372,506297,Outside-hours transaction,Closed
+373,500544,High-value transaction (>= 100000),Under Review
+374,500544,Outside-hours transaction,Under Review
+375,505873,Outside-hours transaction,Open
+376,506671,Outside-hours transaction,Closed
+377,509035,Outside-hours transaction,Closed
+378,500359,Outside-hours transaction,Under Review
+379,502021,Failed transaction,Open
+380,507115,Outside-hours transaction,Under Review
+381,503337,Outside-hours transaction,Under Review
+382,504650,Outside-hours transaction,Open
+383,502503,Outside-hours transaction,Closed
+384,508284,Outside-hours transaction,Closed
+385,503869,Outside-hours transaction,Under Review
+386,502065,Outside-hours transaction,Under Review
+387,503287,Failed transaction,Under Review
+388,500241,Multiple transactions within 10 minutes,Open
+389,500242,Multiple transactions within 10 minutes,Open
+390,500243,Multiple transactions within 10 minutes,Under Review
+391,500283,Multiple transactions within 10 minutes,Closed
+392,500284,Multiple transactions within 10 minutes,Closed
+393,500285,Multiple transactions within 10 minutes,Open
+394,505225,High-value transaction (>= 100000),Open
+395,500724,Outside-hours transaction,Closed
+396,504514,Outside-hours transaction,Open
+397,502870,Outside-hours transaction,Closed
+398,500845,Outside-hours transaction,Under Review
+399,501098,Outside-hours transaction,Open
+400,501098,Failed transaction,Under Review
+401,504045,Outside-hours transaction,Open
+402,502608,Failed transaction,Open
+403,504647,Failed transaction,Under Review
+404,507824,Outside-hours transaction,Under Review
+405,502582,Outside-hours transaction,Open
+406,505631,Outside-hours transaction,Under Review
+407,503539,Outside-hours transaction,Closed
+408,501767,Outside-hours transaction,Closed
+409,505580,Outside-hours transaction,Under Review
+410,502017,Outside-hours transaction,Closed
+411,500109,Multiple transactions within 10 minutes,Closed
+412,500110,Multiple transactions within 10 minutes,Closed
+413,500111,Multiple transactions within 10 minutes,Open
+414,503427,High-value transaction (>= 100000),Closed
+415,505129,Failed transaction,Closed
+416,501470,Failed transaction,Under Review
+417,507005,Failed transaction,Closed
+418,502375,Outside-hours transaction,Open
+419,501853,Outside-hours transaction,Open
+420,509884,Outside-hours transaction,Under Review
+421,509884,Failed transaction,Open
+422,504167,Outside-hours transaction,Open
+423,503196,Outside-hours transaction,Closed
+424,509271,Outside-hours transaction,Closed
+425,506360,Outside-hours transaction,Open
+426,509803,Outside-hours transaction,Under Review
+427,505354,Outside-hours transaction,Under Review
+428,503524,Outside-hours transaction,Closed
+429,501547,Outside-hours transaction,Open
+430,501547,Failed transaction,Closed
+431,503458,Failed transaction,Under Review
+432,500628,Outside-hours transaction,Open
+433,504689,Outside-hours transaction,Closed
+434,504596,Outside-hours transaction,Closed
+435,505027,Outside-hours transaction,Under Review
+436,503098,Outside-hours transaction,Closed
+437,501255,Outside-hours transaction,Under Review
+438,501056,Outside-hours transaction,Under Review
+439,507414,Outside-hours transaction,Open
+440,506848,Outside-hours transaction,Open
+441,504267,Outside-hours transaction,Closed
+442,504267,Failed transaction,Under Review
+443,505233,Outside-hours transaction,Under Review
+444,501005,Outside-hours transaction,Open
+445,504776,Outside-hours transaction,Open
+446,507916,Outside-hours transaction,Under Review
+447,509292,Outside-hours transaction,Open
+448,507696,Outside-hours transaction,Closed
+449,505209,Outside-hours transaction,Under Review
+450,507101,Outside-hours transaction,Open
+451,509335,Failed transaction,Closed
+452,502109,Failed transaction,Under Review
+453,507150,Outside-hours transaction,Closed
+454,509030,Outside-hours transaction,Closed
+455,503938,Outside-hours transaction,Under Review
+456,503938,Failed transaction,Closed
+457,508549,Outside-hours transaction,Open
+458,508353,Outside-hours transaction,Open
+459,508353,Failed transaction,Open
+460,506385,Failed transaction,Closed
+461,506460,Failed transaction,Open
+462,507011,Outside-hours transaction,Closed
+463,509648,Outside-hours transaction,Open
+464,507041,Outside-hours transaction,Under Review
+465,507041,Failed transaction,Closed
+466,507325,Outside-hours transaction,Closed
+467,502940,Outside-hours transaction,Open
+468,509708,Outside-hours transaction,Under Review
+469,506231,Outside-hours transaction,Open
+470,504028,Outside-hours transaction,Open
+471,507073,Outside-hours transaction,Under Review
+472,505013,Outside-hours transaction,Under Review
+473,507862,Outside-hours transaction,Open
+474,500262,Multiple transactions within 10 minutes,Under Review
+475,500263,Multiple transactions within 10 minutes,Open
+476,500264,Multiple transactions within 10 minutes,Closed
+477,500264,Failed transaction,Open
+478,507606,Failed transaction,Closed
+479,509729,Failed transaction,Open
+480,507594,Failed transaction,Under Review
+481,508820,Outside-hours transaction,Closed
+482,508820,Failed transaction,Under Review
+483,507835,Outside-hours transaction,Closed
+484,507834,Outside-hours transaction,Closed
+485,504460,Outside-hours transaction,Open
+486,509946,Outside-hours transaction,Open
+487,503929,Outside-hours transaction,Open
+488,500518,Outside-hours transaction,Open
+489,508263,Outside-hours transaction,Under Review
+490,505595,Outside-hours transaction,Open
+491,507988,Outside-hours transaction,Open
+492,502278,Failed transaction,Closed
+493,505938,Failed transaction,Under Review
+494,503914,Failed transaction,Under Review
+495,502820,High-value transaction (>= 100000),Closed
+496,504531,Failed transaction,Closed
+497,503305,Outside-hours transaction,Open
+498,503514,Outside-hours transaction,Under Review
+499,508813,Outside-hours transaction,Open
+500,509955,Outside-hours transaction,Closed
+501,507320,Outside-hours transaction,Open
+502,504287,Outside-hours transaction,Under Review
+503,500466,Outside-hours transaction,Open
+504,506928,Outside-hours transaction,Under Review
+505,506928,Failed transaction,Open
+506,501199,Outside-hours transaction,Open
+507,505085,Outside-hours transaction,Under Review
+508,500399,Outside-hours transaction,Under Review
+509,506417,Outside-hours transaction,Under Review
+510,506417,Failed transaction,Open
+511,509272,Outside-hours transaction,Open
+512,507646,Outside-hours transaction,Open
+513,509216,Failed transaction,Closed
+514,508895,Failed transaction,Open
+515,508589,Failed transaction,Under Review
+516,501809,Outside-hours transaction,Under Review
+517,506790,Outside-hours transaction,Under Review
+518,506437,Outside-hours transaction,Open
+519,505259,Outside-hours transaction,Under Review
+520,500675,Outside-hours transaction,Under Review
+521,502207,Outside-hours transaction,Closed
+522,502207,Failed transaction,Closed
+523,500699,Outside-hours transaction,Under Review
+524,508873,Outside-hours transaction,Closed
+525,500809,Failed transaction,Closed
+526,505055,Failed transaction,Under Review
+527,503618,Failed transaction,Open
+528,502584,Failed transaction,Open
+529,502183,Outside-hours transaction,Under Review
+530,506315,Outside-hours transaction,Open
+531,509063,Outside-hours transaction,Closed
+532,505300,Outside-hours transaction,Under Review
+533,507681,Outside-hours transaction,Open
+534,502693,Outside-hours transaction,Open
+535,502339,High-value transaction (>= 100000),Closed
+536,501297,Outside-hours transaction,Under Review
+537,503785,Outside-hours transaction,Under Review
+538,505257,Outside-hours transaction,Closed
+539,500904,Outside-hours transaction,Under Review
+540,507550,Outside-hours transaction,Under Review
+541,506136,Outside-hours transaction,Closed
+542,501832,Outside-hours transaction,Closed
+543,501832,Failed transaction,Open
+544,506963,Outside-hours transaction,Under Review
+545,504658,Outside-hours transaction,Closed
+546,503064,Failed transaction,Open
+547,502164,Failed transaction,Under Review
+548,507906,Failed transaction,Open
+549,509409,Outside-hours transaction,Closed
+550,501949,Outside-hours transaction,Under Review
+551,501949,Failed transaction,Open
+552,500750,Outside-hours transaction,Closed
+553,507883,Outside-hours transaction,Closed
+554,504743,Outside-hours transaction,Closed
+555,504743,Failed transaction,Closed
+556,508311,Outside-hours transaction,Closed
+557,501361,Outside-hours transaction,Closed
+558,505996,Failed transaction,Closed
+559,508688,Outside-hours transaction,Open
+560,509512,Outside-hours transaction,Under Review
+561,501990,Outside-hours transaction,Under Review
+562,503065,Outside-hours transaction,Open
+563,500536,Outside-hours transaction,Closed
+564,500988,Outside-hours transaction,Under Review
+565,508506,Outside-hours transaction,Closed
+566,506689,Outside-hours transaction,Under Review
+567,505715,Outside-hours transaction,Closed
+568,500347,Outside-hours transaction,Open
+569,501467,Outside-hours transaction,Closed
+570,502148,Failed transaction,Under Review
+571,505136,Failed transaction,Closed
+572,500199,Multiple transactions within 10 minutes,Under Review
+573,500199,Failed transaction,Closed
+574,500200,Multiple transactions within 10 minutes,Under Review
+575,500201,Multiple transactions within 10 minutes,Under Review
+576,500247,Multiple transactions within 10 minutes,Under Review
+577,500248,Multiple transactions within 10 minutes,Closed
+578,500249,Multiple transactions within 10 minutes,Under Review
+579,504854,Outside-hours transaction,Closed
+580,504946,Outside-hours transaction,Open
+581,509524,Outside-hours transaction,Open
+582,501845,Outside-hours transaction,Under Review
+583,505241,Outside-hours transaction,Closed
+584,509368,Outside-hours transaction,Under Review
+585,508926,Outside-hours transaction,Closed
+586,504508,Outside-hours transaction,Closed
+587,506648,Failed transaction,Open
+588,506619,Failed transaction,Closed
+589,500193,Multiple transactions within 10 minutes,Closed
+590,500194,Multiple transactions within 10 minutes,Under Review
+591,500195,Multiple transactions within 10 minutes,Under Review
+592,500507,Outside-hours transaction,Closed
+593,505343,Outside-hours transaction,Open
+594,502403,Outside-hours transaction,Under Review
+595,507223,Outside-hours transaction,Under Review
+596,503648,Outside-hours transaction,Open
+597,501100,Outside-hours transaction,Under Review
+598,504362,Failed transaction,Closed
+599,505468,Outside-hours transaction,Closed
+600,503036,Outside-hours transaction,Closed
+601,504290,Outside-hours transaction,Under Review
+602,506878,Outside-hours transaction,Under Review
+603,504297,Outside-hours transaction,Under Review
+604,501080,High-value transaction (>= 100000),Under Review
+605,501080,Outside-hours transaction,Closed
+606,501729,Outside-hours transaction,Open
+607,503140,Outside-hours transaction,Closed
+608,502397,Outside-hours transaction,Under Review
+609,507009,Failed transaction,Closed
+610,503093,Outside-hours transaction,Open
+611,501796,Outside-hours transaction,Closed
+612,501265,Outside-hours transaction,Open
+613,508726,Outside-hours transaction,Under Review
+614,508726,Failed transaction,Closed
+615,509044,Outside-hours transaction,Closed
+616,504078,Outside-hours transaction,Closed
+617,509083,Outside-hours transaction,Closed
+618,509083,Failed transaction,Under Review
+619,508288,Outside-hours transaction,Open
+620,503319,Failed transaction,Open
+621,507284,Failed transaction,Closed
+622,505337,Outside-hours transaction,Under Review
+623,508475,Outside-hours transaction,Open
+624,502366,Outside-hours transaction,Open
+625,502780,Outside-hours transaction,Open
+626,506235,Outside-hours transaction,Open
+627,506209,Outside-hours transaction,Open
+628,506484,Outside-hours transaction,Open
+629,506822,Outside-hours transaction,Under Review
+630,506735,Outside-hours transaction,Closed
+631,502029,Failed transaction,Open
+632,503809,Failed transaction,Under Review
+633,505518,Outside-hours transaction,Under Review
+634,505518,Failed transaction,Closed
+635,505222,Outside-hours transaction,Closed
+636,501118,Outside-hours transaction,Open
+637,504130,Outside-hours transaction,Closed
+638,504304,Outside-hours transaction,Closed
+639,507123,Outside-hours transaction,Under Review
+640,500444,Outside-hours transaction,Under Review
+641,502334,Outside-hours transaction,Under Review
+642,502226,Outside-hours transaction,Open
+643,504961,Outside-hours transaction,Open
+644,506808,Outside-hours transaction,Closed
+645,506479,Outside-hours transaction,Closed
+646,500452,Outside-hours transaction,Open
+647,507869,Outside-hours transaction,Open
+648,500957,Failed transaction,Under Review
+649,503535,Failed transaction,Open
+650,501953,Failed transaction,Open
+651,501277,Outside-hours transaction,Closed
+652,500337,Outside-hours transaction,Closed
+653,504420,Outside-hours transaction,Under Review
+654,508038,Outside-hours transaction,Open
+655,505555,Outside-hours transaction,Closed
+656,505951,Failed transaction,Open
+657,502956,Failed transaction,Open
+658,506690,Outside-hours transaction,Under Review
+659,509517,Outside-hours transaction,Open
+660,501678,Outside-hours transaction,Under Review
+661,503626,Outside-hours transaction,Closed
+662,503626,Failed transaction,Closed
+663,502369,Outside-hours transaction,Closed
+664,506687,Outside-hours transaction,Closed
+665,509447,Outside-hours transaction,Under Review
+666,509447,Failed transaction,Under Review
+667,500671,High-value transaction (>= 100000),Closed
+668,509511,Outside-hours transaction,Closed
+669,500410,Outside-hours transaction,Closed
+670,504615,Outside-hours transaction,Under Review
+671,504611,Outside-hours transaction,Closed
+672,505788,Outside-hours transaction,Under Review
+673,508317,Outside-hours transaction,Open
+674,504427,Failed transaction,Closed
+675,509254,High-value transaction (>= 100000),Under Review
+676,508827,Outside-hours transaction,Under Review
+677,507497,Outside-hours transaction,Under Review
+678,507497,Failed transaction,Open
+679,508520,Outside-hours transaction,Closed
+680,500494,Outside-hours transaction,Under Review
+681,501166,Outside-hours transaction,Closed
+682,506276,Outside-hours transaction,Under Review
+683,506276,Failed transaction,Closed
+684,509118,Outside-hours transaction,Open
+685,506364,Outside-hours transaction,Under Review
+686,508131,Outside-hours transaction,Under Review
+687,508131,Failed transaction,Open
+688,500190,Multiple transactions within 10 minutes,Closed
+689,500191,Multiple transactions within 10 minutes,Under Review
+690,500192,Multiple transactions within 10 minutes,Open
+691,500578,Failed transaction,Under Review
+692,506261,Failed transaction,Under Review
+693,504291,Outside-hours transaction,Under Review
+694,508119,Outside-hours transaction,Closed
+695,503486,Outside-hours transaction,Open
+696,500303,Outside-hours transaction,Open
+697,500395,Outside-hours transaction,Open
+698,507367,Outside-hours transaction,Open
+699,502039,Outside-hours transaction,Under Review
+700,508536,Outside-hours transaction,Closed
+701,502388,Outside-hours transaction,Open
+702,503183,Outside-hours transaction,Closed
+703,501816,Outside-hours transaction,Open
+704,505117,Outside-hours transaction,Open
+705,504777,Outside-hours transaction,Under Review
+706,500932,Outside-hours transaction,Under Review
+707,503467,Outside-hours transaction,Under Review
+708,503827,Failed transaction,Closed
+709,502208,Failed transaction,Under Review
+710,502311,Outside-hours transaction,Under Review
+711,509608,Outside-hours transaction,Open
+712,502348,Outside-hours transaction,Open
+713,508373,Outside-hours transaction,Under Review
+714,505480,Outside-hours transaction,Under Review
+715,507433,Outside-hours transaction,Closed
+716,503798,Outside-hours transaction,Closed
+717,502569,Outside-hours transaction,Open
+718,502569,Failed transaction,Closed
+719,507197,Outside-hours transaction,Under Review
+720,500510,Outside-hours transaction,Under Review
+721,501631,Outside-hours transaction,Open
+722,504822,Outside-hours transaction,Under Review
+723,506703,Outside-hours transaction,Under Review
+724,502220,Outside-hours transaction,Under Review
+725,504678,Outside-hours transaction,Under Review
+726,508925,Outside-hours transaction,Closed
+727,506852,Failed transaction,Closed
+728,500115,Multiple transactions within 10 minutes,Closed
+729,500116,Multiple transactions within 10 minutes,Closed
+730,500117,Multiple transactions within 10 minutes,Closed
+731,507282,Failed transaction,Open
+732,503651,Outside-hours transaction,Under Review
+733,502396,Outside-hours transaction,Open
+734,507698,Outside-hours transaction,Under Review
+735,503683,Outside-hours transaction,Under Review
+736,500428,Outside-hours transaction,Under Review
+737,509047,Outside-hours transaction,Open
+738,503062,Outside-hours transaction,Under Review
+739,502714,Outside-hours transaction,Under Review
+740,508776,Outside-hours transaction,Closed
+741,508775,Failed transaction,Closed
+742,500256,Multiple transactions within 10 minutes,Under Review
+743,500257,Multiple transactions within 10 minutes,Closed
+744,500258,Multiple transactions within 10 minutes,Open
+745,502145,Failed transaction,Under Review
+746,504972,Outside-hours transaction,Open
+747,501692,Outside-hours transaction,Closed
+748,501692,Failed transaction,Closed
+749,507252,Outside-hours transaction,Open
+750,505508,Outside-hours transaction,Under Review
+751,502233,Outside-hours transaction,Closed
+752,506482,Outside-hours transaction,Closed
+753,509244,Outside-hours transaction,Closed
+754,508202,Outside-hours transaction,Open
+755,508202,Failed transaction,Open
+756,504182,High-value transaction (>= 100000),Closed
+757,504182,Outside-hours transaction,Under Review
+758,502645,Failed transaction,Open
+759,508653,Outside-hours transaction,Under Review
+760,500896,Outside-hours transaction,Open
+761,506363,Outside-hours transaction,Open
+762,505121,Outside-hours transaction,Under Review
+763,508168,Outside-hours transaction,Under Review
+764,504559,Outside-hours transaction,Under Review
+765,503503,Outside-hours transaction,Open
+766,507829,Outside-hours transaction,Under Review
+767,507536,Outside-hours transaction,Under Review
+768,502008,Outside-hours transaction,Under Review
+769,500842,Outside-hours transaction,Under Review
+770,503715,Outside-hours transaction,Under Review
+771,507010,Outside-hours transaction,Under Review
+772,509607,Outside-hours transaction,Under Review
+773,500666,Outside-hours transaction,Open
+774,506586,Outside-hours transaction,Under Review
+775,501781,Outside-hours transaction,Open
+776,500729,Outside-hours transaction,Closed
+777,506771,Outside-hours transaction,Closed
+778,509699,Outside-hours transaction,Open
+779,500592,High-value transaction (>= 100000),Under Review
+780,500592,Outside-hours transaction,Open
+781,509796,Outside-hours transaction,Closed
+782,503466,Outside-hours transaction,Open
+783,505941,High-value transaction (>= 100000),Closed
+784,505941,Outside-hours transaction,Open
+785,502793,Failed transaction,Open
+786,500298,Multiple transactions within 10 minutes,Open
+787,509636,Failed transaction,Open
+788,500299,Multiple transactions within 10 minutes,Open
+789,500300,Multiple transactions within 10 minutes,Closed
+790,506527,Outside-hours transaction,Open
+791,508279,Outside-hours transaction,Open
+792,506405,Outside-hours transaction,Open
+793,500325,Outside-hours transaction,Under Review
+794,509039,Outside-hours transaction,Closed
+795,506987,Outside-hours transaction,Open
+796,507352,Failed transaction,Closed
+797,500918,Outside-hours transaction,Open
+798,500918,Failed transaction,Under Review
+799,508978,Outside-hours transaction,Closed
+800,501708,Outside-hours transaction,Under Review
+801,501708,Failed transaction,Under Review
+802,507449,Outside-hours transaction,Open
+803,502399,Outside-hours transaction,Closed
+804,500860,Outside-hours transaction,Closed
+805,502551,Outside-hours transaction,Closed
+806,509748,Outside-hours transaction,Closed
+807,503997,Outside-hours transaction,Open
+808,503490,Outside-hours transaction,Open
+809,509757,Failed transaction,Under Review
+810,500979,Outside-hours transaction,Open
+811,500979,Failed transaction,Closed
+812,503396,Outside-hours transaction,Open
+813,501469,Outside-hours transaction,Under Review
+814,504227,Outside-hours transaction,Closed
+815,502819,Outside-hours transaction,Closed
+816,507036,Outside-hours transaction,Under Review
+817,505513,Outside-hours transaction,Under Review
+818,501516,Outside-hours transaction,Closed
+819,508836,Failed transaction,Open
+820,506936,Outside-hours transaction,Open
+821,508962,Outside-hours transaction,Closed
+822,509551,Outside-hours transaction,Closed
+823,503829,High-value transaction (>= 100000),Closed
+824,503829,Outside-hours transaction,Open
+825,500825,Outside-hours transaction,Open
+826,500825,Failed transaction,Closed
+827,506002,High-value transaction (>= 100000),Under Review
+828,506002,Outside-hours transaction,Closed
+829,506002,Failed transaction,Closed
+830,503303,Outside-hours transaction,Open
+831,506260,Outside-hours transaction,Closed
+832,509029,Outside-hours transaction,Open
+833,507484,Outside-hours transaction,Under Review
+834,507226,Outside-hours transaction,Closed
+835,509505,Failed transaction,Under Review
+836,502058,Failed transaction,Closed
+837,505374,Failed transaction,Under Review
+838,508363,Outside-hours transaction,Open
+839,504162,Outside-hours transaction,Closed
+840,502337,Outside-hours transaction,Closed
+841,501187,Outside-hours transaction,Under Review
+842,504604,Outside-hours transaction,Open
+843,503810,Outside-hours transaction,Under Review
+844,507016,Outside-hours transaction,Under Review
+845,500055,Multiple transactions within 10 minutes,Open
+846,500056,Multiple transactions within 10 minutes,Under Review
+847,500057,Multiple transactions within 10 minutes,Under Review
+848,500301,Failed transaction,Closed
+849,504335,High-value transaction (>= 100000),Under Review
+850,503135,Outside-hours transaction,Closed
+851,506112,Outside-hours transaction,Open
+852,507665,Outside-hours transaction,Under Review
+853,507665,Failed transaction,Open
+854,502275,Outside-hours transaction,Closed
+855,502275,Failed transaction,Closed
+856,501690,Outside-hours transaction,Closed
+857,501690,Failed transaction,Under Review
+858,504135,Outside-hours transaction,Closed
+859,501542,Outside-hours transaction,Closed
+860,509623,Outside-hours transaction,Under Review
+861,503398,Outside-hours transaction,Under Review
+862,509015,Outside-hours transaction,Under Review
+863,509015,Failed transaction,Closed
+864,500627,Outside-hours transaction,Closed
+865,509279,Outside-hours transaction,Under Review
+866,508857,Outside-hours transaction,Under Review
+867,502758,Outside-hours transaction,Open
+868,508246,Failed transaction,Open
+869,500295,Multiple transactions within 10 minutes,Under Review
+870,500296,Multiple transactions within 10 minutes,Under Review
+871,500297,Multiple transactions within 10 minutes,Open
+872,504461,Outside-hours transaction,Under Review
+873,508637,Outside-hours transaction,Closed
+874,509504,Outside-hours transaction,Closed
+875,502401,Outside-hours transaction,Closed
+876,503745,Outside-hours transaction,Under Review
+877,503745,Failed transaction,Under Review
+878,503450,Failed transaction,Open
+879,506644,Failed transaction,Under Review
+880,508981,Failed transaction,Under Review
+881,502784,Outside-hours transaction,Open
+882,504962,Outside-hours transaction,Under Review
+883,504962,Failed transaction,Open
+884,501484,Outside-hours transaction,Under Review
+885,504026,Outside-hours transaction,Under Review
+886,502975,Outside-hours transaction,Under Review
+887,508339,Outside-hours transaction,Under Review
+888,508339,Failed transaction,Closed
+889,502179,Failed transaction,Closed
+890,504029,Outside-hours transaction,Under Review
+891,507675,Outside-hours transaction,Closed
+892,503205,Outside-hours transaction,Open
+893,504966,Outside-hours transaction,Closed
+894,503309,Outside-hours transaction,Open
+895,502398,Outside-hours transaction,Open
+896,509970,Outside-hours transaction,Open
+897,505897,Outside-hours transaction,Closed
+898,504471,Outside-hours transaction,Under Review
+899,507247,Outside-hours transaction,Under Review
+900,503774,Outside-hours transaction,Closed
+901,506279,Failed transaction,Open
+902,508274,Failed transaction,Closed
+903,500413,High-value transaction (>= 100000),Under Review
+904,503960,Outside-hours transaction,Closed
+905,500372,Outside-hours transaction,Closed
+906,508659,Outside-hours transaction,Under Review
+907,501745,Outside-hours transaction,Under Review
+908,509498,Outside-hours transaction,Open
+909,507985,Outside-hours transaction,Open
+910,501743,Outside-hours transaction,Under Review
+911,500130,Multiple transactions within 10 minutes,Open
+912,500130,Failed transaction,Under Review
+913,500235,Multiple transactions within 10 minutes,Closed
+914,500131,Multiple transactions within 10 minutes,Open
+915,500236,Multiple transactions within 10 minutes,Under Review
+916,500132,Multiple transactions within 10 minutes,Closed
+917,500237,Multiple transactions within 10 minutes,Closed
+918,501347,Failed transaction,Under Review
+919,509582,Outside-hours transaction,Under Review
+920,500373,Outside-hours transaction,Closed
+921,507122,Outside-hours transaction,Closed
+922,505714,Outside-hours transaction,Under Review
+923,503988,Outside-hours transaction,Under Review
+924,502974,Outside-hours transaction,Closed
+925,506551,Outside-hours transaction,Closed
+926,506309,Outside-hours transaction,Under Review
+927,501296,Outside-hours transaction,Under Review
+928,501776,Failed transaction,Closed
+929,508564,Outside-hours transaction,Under Review
+930,504483,Outside-hours transaction,Under Review
+931,506657,Outside-hours transaction,Under Review
+932,505493,Outside-hours transaction,Under Review
+933,508128,Outside-hours transaction,Open
+934,505200,Outside-hours transaction,Open
+935,508349,Outside-hours transaction,Closed
+936,504116,Outside-hours transaction,Open
+937,504108,Outside-hours transaction,Under Review
+938,508982,Outside-hours transaction,Open
+939,500742,Outside-hours transaction,Closed
+940,506072,Failed transaction,Closed
+941,503239,Failed transaction,Closed
+942,509246,Outside-hours transaction,Open
+943,500331,Outside-hours transaction,Open
+944,502867,Outside-hours transaction,Open
+945,502867,Failed transaction,Closed
+946,502527,Outside-hours transaction,Under Review
+947,502621,Outside-hours transaction,Under Review
+948,501353,Outside-hours transaction,Closed
+949,503797,Outside-hours transaction,Closed
+950,507910,Outside-hours transaction,Closed
+951,500625,Outside-hours transaction,Closed
+952,502176,Failed transaction,Under Review
+953,503313,Failed transaction,Open
+954,503119,Outside-hours transaction,Open
+955,504136,Outside-hours transaction,Under Review
+956,509622,Outside-hours transaction,Open
+957,504664,Outside-hours transaction,Under Review
+958,502589,Outside-hours transaction,Open
+959,501906,Outside-hours transaction,Under Review
+960,503084,Outside-hours transaction,Open
+961,501727,Failed transaction,Closed
+962,504883,Failed transaction,Closed
+963,505462,Outside-hours transaction,Open
+964,506699,Outside-hours transaction,Under Review
+965,501407,Outside-hours transaction,Open
+966,502631,Outside-hours transaction,Open
+967,500371,Outside-hours transaction,Closed
+968,500371,Failed transaction,Under Review
+969,506843,Outside-hours transaction,Closed
+970,506104,Outside-hours transaction,Open
+971,506104,Failed transaction,Closed
+972,509774,Outside-hours transaction,Under Review
+973,500211,Multiple transactions within 10 minutes,Open
+974,500212,Multiple transactions within 10 minutes,Open
+975,500213,Multiple transactions within 10 minutes,Closed
+976,503055,Failed transaction,Under Review
+977,502216,Failed transaction,Under Review
+978,504345,Outside-hours transaction,Under Review
+979,507776,Outside-hours transaction,Under Review
+980,507242,Outside-hours transaction,Under Review
+981,505586,Outside-hours transaction,Open
+982,504800,Outside-hours transaction,Open
+983,508057,Outside-hours transaction,Under Review
+984,503176,Outside-hours transaction,Under Review
+985,502302,Outside-hours transaction,Open
+986,506377,Outside-hours transaction,Open
+987,500685,Outside-hours transaction,Under Review
+988,500685,Failed transaction,Under Review
+989,505096,High-value transaction (>= 100000),Open
+990,505096,Failed transaction,Closed
+991,508225,Failed transaction,Closed
+992,501612,Outside-hours transaction,Closed
+993,501307,Outside-hours transaction,Open
+994,507393,Outside-hours transaction,Open
+995,500336,Outside-hours transaction,Open
+996,504572,Outside-hours transaction,Closed
+997,500178,Multiple transactions within 10 minutes,Under Review
+998,500179,Multiple transactions within 10 minutes,Open
+999,500180,Multiple transactions within 10 minutes,Open
+1000,501424,Outside-hours transaction,Open
+1001,507283,Outside-hours transaction,Closed
+1002,507283,Failed transaction,Under Review
+1003,504870,Outside-hours transaction,Closed
+1004,504870,Failed transaction,Closed
+1005,504558,Outside-hours transaction,Closed
+1006,507158,Outside-hours transaction,Open
+1007,506472,Outside-hours transaction,Closed
+1008,509737,Outside-hours transaction,Under Review
+1009,505724,Outside-hours transaction,Under Review
+1010,501423,Outside-hours transaction,Under Review
+1011,501506,Outside-hours transaction,Under Review
+1012,505333,Outside-hours transaction,Closed
+1013,500998,Outside-hours transaction,Under Review
+1014,504023,Outside-hours transaction,Under Review
+1015,506069,Outside-hours transaction,Closed
+1016,504542,Outside-hours transaction,Closed
+1017,508344,Outside-hours transaction,Open
+1018,507134,Outside-hours transaction,Closed
+1019,507134,Failed transaction,Closed
+1020,505246,Outside-hours transaction,Open
+1021,507093,Outside-hours transaction,Open
+1022,507093,Failed transaction,Closed
+1023,500375,Outside-hours transaction,Open
+1024,506060,High-value transaction (>= 100000),Under Review
+1025,506060,Outside-hours transaction,Closed
+1026,506860,Outside-hours transaction,Open
+1027,502510,Outside-hours transaction,Open
+1028,509822,Failed transaction,Open
+1029,508182,Failed transaction,Open
+1030,500040,Multiple transactions within 10 minutes,Closed
+1031,500041,Multiple transactions within 10 minutes,Open
+1032,500042,Multiple transactions within 10 minutes,Open
+1033,505582,Outside-hours transaction,Open
+1034,508636,Outside-hours transaction,Under Review
+1035,508636,Failed transaction,Under Review
+1036,503304,Outside-hours transaction,Closed
+1037,506957,Outside-hours transaction,Closed
+1038,505921,Outside-hours transaction,Under Review
+1039,504859,Failed transaction,Under Review
+1040,500226,Multiple transactions within 10 minutes,Open
+1041,500227,Multiple transactions within 10 minutes,Open
+1042,500228,Multiple transactions within 10 minutes,Under Review
+1043,508592,Failed transaction,Closed
+1044,509720,Outside-hours transaction,Under Review
+1045,508999,Outside-hours transaction,Closed
+1046,501988,Outside-hours transaction,Under Review
+1047,505203,Outside-hours transaction,Open
+1048,501682,Outside-hours transaction,Closed
+1049,509867,Outside-hours transaction,Open
+1050,507528,Outside-hours transaction,Under Review
+1051,500434,Outside-hours transaction,Closed
+1052,502500,Outside-hours transaction,Closed
+1053,506693,Failed transaction,Closed
+1054,509639,Failed transaction,Open
+1055,500067,Multiple transactions within 10 minutes,Under Review
+1056,500068,Multiple transactions within 10 minutes,Open
+1057,500069,Multiple transactions within 10 minutes,Closed
+1058,507863,High-value transaction (>= 100000),Open
+1059,507863,Outside-hours transaction,Closed
+1060,501130,Outside-hours transaction,Open
+1061,508179,Outside-hours transaction,Under Review
+1062,500408,Outside-hours transaction,Open
+1063,509313,Outside-hours transaction,Open
+1064,504710,Outside-hours transaction,Open
+1065,507155,Outside-hours transaction,Open
+1066,505174,Outside-hours transaction,Under Review
+1067,508538,Outside-hours transaction,Closed
+1068,508049,Outside-hours transaction,Closed
+1069,505975,Outside-hours transaction,Closed
+1070,508569,Outside-hours transaction,Under Review
+1071,502635,Outside-hours transaction,Under Review
+1072,509868,Outside-hours transaction,Open
+1073,508977,Outside-hours transaction,Under Review
+1074,509940,High-value transaction (>= 100000),Closed
+1075,504211,Failed transaction,Under Review
+1076,501722,Failed transaction,Closed
+1077,507470,Outside-hours transaction,Under Review
+1078,509158,Outside-hours transaction,Under Review
+1079,501485,High-value transaction (>= 100000),Closed
+1080,501485,Outside-hours transaction,Closed
+1081,501106,Outside-hours transaction,Under Review
+1082,501919,Outside-hours transaction,Under Review
+1083,506310,Outside-hours transaction,Open
+1084,502700,Outside-hours transaction,Closed
+1085,506468,Outside-hours transaction,Open
+1086,508387,Outside-hours transaction,Under Review
+1087,508387,Failed transaction,Closed
+1088,502080,Outside-hours transaction,Under Review
+1089,502230,Failed transaction,Closed
+1090,503468,High-value transaction (>= 100000),Under Review
+1091,508108,Failed transaction,Open
+1092,507720,Outside-hours transaction,Open
+1093,509650,Outside-hours transaction,Open
+1094,506299,Outside-hours transaction,Closed
+1095,505074,Outside-hours transaction,Closed
+1096,507128,Failed transaction,Closed
+1097,504600,Outside-hours transaction,Open
+1098,506764,Outside-hours transaction,Closed
+1099,505328,Outside-hours transaction,Under Review
+1100,500989,Outside-hours transaction,Closed
+1101,503994,High-value transaction (>= 100000),Open
+1102,503994,Outside-hours transaction,Open
+1103,506777,Outside-hours transaction,Under Review
+1104,509878,Outside-hours transaction,Closed
+1105,504881,Failed transaction,Closed
+1106,500330,Failed transaction,Under Review
+1107,508075,Failed transaction,Under Review
+1108,509794,Outside-hours transaction,Open
+1109,507254,Outside-hours transaction,Closed
+1110,508248,Outside-hours transaction,Under Review
+1111,500499,Outside-hours transaction,Closed
+1112,503476,Outside-hours transaction,Under Review
+1113,503198,Outside-hours transaction,Open
+1114,503932,Outside-hours transaction,Under Review
+1115,508371,Outside-hours transaction,Under Review
+1116,507405,Outside-hours transaction,Under Review
+1117,500058,Multiple transactions within 10 minutes,Under Review
+1118,500059,Multiple transactions within 10 minutes,Under Review
+1119,500060,Multiple transactions within 10 minutes,Closed
+1120,500271,Multiple transactions within 10 minutes,Open
+1121,500272,Multiple transactions within 10 minutes,Open
+1122,500273,Multiple transactions within 10 minutes,Under Review
+1123,500727,Outside-hours transaction,Under Review
+1124,507261,Outside-hours transaction,Closed
+1125,500479,Outside-hours transaction,Under Review
+1126,502372,Outside-hours transaction,Under Review
+1127,502372,Failed transaction,Closed
+1128,503792,Outside-hours transaction,Under Review
+1129,503792,Failed transaction,Closed
+1130,503334,Outside-hours transaction,Open
+1131,500652,Outside-hours transaction,Under Review
+1132,508161,High-value transaction (>= 100000),Open
+1133,508161,Outside-hours transaction,Under Review
+1134,502709,Outside-hours transaction,Under Review
+1135,507808,Outside-hours transaction,Under Review
+1136,509151,Outside-hours transaction,Open
+1137,503850,Outside-hours transaction,Under Review
+1138,506631,Failed transaction,Closed
+1139,509886,Outside-hours transaction,Open
+1140,508853,Outside-hours transaction,Closed
+1141,504505,Outside-hours transaction,Closed
+1142,504884,Outside-hours transaction,Under Review
+1143,507977,Outside-hours transaction,Under Review
+1144,503461,Outside-hours transaction,Open
+1145,505444,Outside-hours transaction,Open
+1146,501452,Failed transaction,Closed
+1147,501229,Failed transaction,Under Review
+1148,506943,Failed transaction,Closed
+1149,502728,Failed transaction,Under Review
+1150,507590,Outside-hours transaction,Closed
+1151,502598,Outside-hours transaction,Under Review
+1152,501844,Outside-hours transaction,Open
+1153,501773,Outside-hours transaction,Open
+1154,507299,Outside-hours transaction,Under Review
+1155,508819,Outside-hours transaction,Closed
+1156,504875,Outside-hours transaction,Open
+1157,505500,Outside-hours transaction,Under Review
+1158,503990,Failed transaction,Under Review
+1159,500648,Failed transaction,Closed
+1160,503556,Failed transaction,Under Review
+1161,506326,Failed transaction,Open
+1162,501723,Outside-hours transaction,Open
+1163,505092,Outside-hours transaction,Closed
+1164,509041,Outside-hours transaction,Closed
+1165,504869,Outside-hours transaction,Open
+1166,501888,Failed transaction,Closed
+1167,501050,Failed transaction,Open
+1168,507714,High-value transaction (>= 100000),Under Review
+1169,501447,Failed transaction,Closed
+1170,508354,Failed transaction,Open
+1171,508390,Failed transaction,Closed
+1172,500686,Outside-hours transaction,Under Review
+1173,508879,Outside-hours transaction,Open
+1174,504831,Outside-hours transaction,Open
+1175,503582,Outside-hours transaction,Open
+1176,501877,Outside-hours transaction,Under Review
+1177,500001,Multiple transactions within 10 minutes,Open
+1178,500002,Multiple transactions within 10 minutes,Closed
+1179,500003,Multiple transactions within 10 minutes,Open
+1180,503049,Outside-hours transaction,Under Review
+1181,509692,Outside-hours transaction,Closed
+1182,505303,Outside-hours transaction,Under Review
+1183,504421,Outside-hours transaction,Closed
+1184,501137,Outside-hours transaction,Closed
+1185,508109,Outside-hours transaction,Under Review
+1186,500590,Outside-hours transaction,Under Review
+1187,506609,Failed transaction,Under Review
+1188,501878,Outside-hours transaction,Under Review
+1189,504386,Outside-hours transaction,Open
+1190,500419,Outside-hours transaction,Under Review
+1191,500591,Outside-hours transaction,Closed
+1192,508445,Outside-hours transaction,Open
+1193,505526,Outside-hours transaction,Under Review
+1194,507507,Outside-hours transaction,Open
+1195,506958,High-value transaction (>= 100000),Closed
+1196,506019,Failed transaction,Closed
+1197,507712,Failed transaction,Closed
+1198,502322,Outside-hours transaction,Open
+1199,505320,Outside-hours transaction,Open
+1200,509318,Outside-hours transaction,Under Review
+1201,509725,Outside-hours transaction,Under Review
+1202,507764,Outside-hours transaction,Under Review
+1203,504688,Outside-hours transaction,Closed
+1204,501337,Outside-hours transaction,Under Review
+1205,503940,Outside-hours transaction,Open
+1206,508434,Outside-hours transaction,Under Review
+1207,508434,Failed transaction,Closed
+1208,509165,Outside-hours transaction,Under Review
+1209,502373,Outside-hours transaction,Closed
+1210,509428,Outside-hours transaction,Closed
+1211,506467,Outside-hours transaction,Closed
+1212,501168,Failed transaction,Under Review
+1213,504410,Failed transaction,Open
+1214,500667,Failed transaction,Under Review
+1215,506954,Outside-hours transaction,Closed
+1216,506954,Failed transaction,Under Review
+1217,500509,Outside-hours transaction,Under Review
+1218,501554,Outside-hours transaction,Under Review
+1219,500703,Outside-hours transaction,Closed
+1220,505059,Outside-hours transaction,Closed
+1221,503086,Outside-hours transaction,Under Review
+1222,509300,Failed transaction,Under Review
+1223,503244,Outside-hours transaction,Under Review
+1224,505661,Outside-hours transaction,Open
+1225,502807,Outside-hours transaction,Closed
+1226,502807,Failed transaction,Open
+1227,509308,Outside-hours transaction,Closed
+1228,509308,Failed transaction,Under Review
+1229,502973,Outside-hours transaction,Open
+1230,509388,Outside-hours transaction,Under Review
+1231,501145,Outside-hours transaction,Open
+1232,502217,Outside-hours transaction,Under Review
+1233,507431,Outside-hours transaction,Closed
+1234,503898,Outside-hours transaction,Under Review
+1235,504525,Outside-hours transaction,Closed
+1236,500709,Outside-hours transaction,Under Review
+1237,503088,Outside-hours transaction,Under Review
+1238,500432,Outside-hours transaction,Closed
+1239,504165,Outside-hours transaction,Closed
+1240,504332,Outside-hours transaction,Open
+1241,502982,Failed transaction,Under Review
+1242,507927,Outside-hours transaction,Open
+1243,507418,Outside-hours transaction,Open
+1244,508455,Outside-hours transaction,Closed
+1245,501479,Outside-hours transaction,Closed
+1246,507683,Failed transaction,Under Review
+1247,501348,Outside-hours transaction,Open
+1248,501348,Failed transaction,Under Review
+1249,508314,Outside-hours transaction,Open
+1250,504449,Outside-hours transaction,Closed
+1251,508494,Outside-hours transaction,Under Review
+1252,507264,High-value transaction (>= 100000),Open
+1253,507264,Outside-hours transaction,Closed
+1254,505688,Outside-hours transaction,Open
+1255,501354,Outside-hours transaction,Under Review
+1256,504782,Outside-hours transaction,Closed
+1257,504176,Outside-hours transaction,Open
+1258,507386,Outside-hours transaction,Open
+1259,502651,Outside-hours transaction,Under Review
+1260,503070,Failed transaction,Under Review
+1261,504997,Failed transaction,Under Review
+1262,503085,Outside-hours transaction,Closed
+1263,509052,Outside-hours transaction,Closed
+1264,501706,Outside-hours transaction,Under Review
+1265,502376,Outside-hours transaction,Closed
+1266,500613,Outside-hours transaction,Open
+1267,509587,Outside-hours transaction,Under Review
+1268,506605,Outside-hours transaction,Closed
+1269,503506,Outside-hours transaction,Closed
+1270,501839,Outside-hours transaction,Under Review
+1271,506465,Failed transaction,Under Review
+1272,500166,Multiple transactions within 10 minutes,Closed
+1273,500167,Multiple transactions within 10 minutes,Closed
+1274,500167,Failed transaction,Under Review
+1275,500168,Multiple transactions within 10 minutes,Closed
+1276,506945,Failed transaction,Open
+1277,501814,Outside-hours transaction,Closed
+1278,505185,Outside-hours transaction,Open
+1279,500753,Outside-hours transaction,Open
+1280,502130,Outside-hours transaction,Closed
+1281,501090,Outside-hours transaction,Closed
+1282,504944,Outside-hours transaction,Under Review
+1283,508165,Failed transaction,Open
+1284,509492,Failed transaction,Closed
+1285,507727,Failed transaction,Open
+1286,509588,Outside-hours transaction,Under Review
+1287,502815,Outside-hours transaction,Open
+1288,506452,Outside-hours transaction,Closed
+1289,502446,Outside-hours transaction,Closed
+1290,507800,Outside-hours transaction,Open
+1291,500931,Outside-hours transaction,Under Review
+1292,502439,Outside-hours transaction,Open
+1293,504197,Outside-hours transaction,Closed
+1294,504142,Outside-hours transaction,Under Review
+1295,509826,Outside-hours transaction,Open
+1296,508894,Failed transaction,Open
+1297,508729,Failed transaction,Under Review
+1298,507842,Outside-hours transaction,Open
+1299,501446,Outside-hours transaction,Under Review
+1300,500829,Outside-hours transaction,Under Review
+1301,507542,Outside-hours transaction,Under Review
+1302,504063,Outside-hours transaction,Under Review
+1303,501339,Outside-hours transaction,Open
+1304,503228,Failed transaction,Open
+1305,502400,Outside-hours transaction,Closed
+1306,504255,Outside-hours transaction,Under Review
+1307,505191,Outside-hours transaction,Closed
+1308,509437,Outside-hours transaction,Closed
+1309,502196,Outside-hours transaction,Open
+1310,500768,Outside-hours transaction,Open
+1311,506823,Outside-hours transaction,Open
+1312,500094,Multiple transactions within 10 minutes,Open
+1313,500095,Multiple transactions within 10 minutes,Closed
+1314,500096,Multiple transactions within 10 minutes,Under Review
+1315,505000,Failed transaction,Closed
+1316,508291,High-value transaction (>= 100000),Closed
+1317,503474,Outside-hours transaction,Open
+1318,505351,Outside-hours transaction,Under Review
+1319,504257,Outside-hours transaction,Closed
+1320,506496,Outside-hours transaction,Open
+1321,507475,Outside-hours transaction,Open
+1322,507523,Outside-hours transaction,Under Review
+1323,507204,Failed transaction,Closed
+1324,509480,Failed transaction,Under Review
+1325,507378,Outside-hours transaction,Under Review
+1326,501083,Outside-hours transaction,Under Review
+1327,500917,Outside-hours transaction,Closed
+1328,500944,Outside-hours transaction,Open
+1329,500944,Failed transaction,Under Review
+1330,506470,Outside-hours transaction,Under Review
+1331,509960,Outside-hours transaction,Closed
+1332,500908,Outside-hours transaction,Closed
+1333,500908,Failed transaction,Open
+1334,503117,Failed transaction,Open
+1335,501298,Failed transaction,Under Review
+1336,505644,Failed transaction,Under Review
+1337,500650,Failed transaction,Closed
+1338,503406,Outside-hours transaction,Under Review
+1339,500424,Outside-hours transaction,Closed
+1340,504877,Outside-hours transaction,Under Review
+1341,504877,Failed transaction,Closed
+1342,500522,Outside-hours transaction,Under Review
+1343,504545,Outside-hours transaction,Under Review
+1344,507125,Outside-hours transaction,Under Review
+1345,507678,Outside-hours transaction,Open
+1346,504786,Outside-hours transaction,Under Review
+1347,507185,Outside-hours transaction,Under Review
+1348,505933,Outside-hours transaction,Open
+1349,506463,Failed transaction,Open
+1350,502405,Failed transaction,Under Review
+1351,501543,Outside-hours transaction,Closed
+1352,501543,Failed transaction,Under Review
+1353,508118,Outside-hours transaction,Closed
+1354,505838,Outside-hours transaction,Under Review
+1355,503120,Outside-hours transaction,Closed
+1356,509660,Outside-hours transaction,Under Review
+1357,505868,Outside-hours transaction,Open
+1358,502654,Outside-hours transaction,Closed
+1359,506778,Outside-hours transaction,Under Review
+1360,502111,Outside-hours transaction,Under Review
+1361,502371,Outside-hours transaction,Open
+1362,502305,Failed transaction,Closed
+1363,500049,Multiple transactions within 10 minutes,Closed
+1364,500049,Failed transaction,Closed
+1365,500050,Multiple transactions within 10 minutes,Open
+1366,500051,Multiple transactions within 10 minutes,Closed
+1367,506169,Failed transaction,Closed
+1368,507908,Outside-hours transaction,Under Review
+1369,507908,Failed transaction,Under Review
+1370,506876,Outside-hours transaction,Open
+1371,501744,Outside-hours transaction,Closed
+1372,508241,Outside-hours transaction,Under Review
+1373,509871,Outside-hours transaction,Open
+1374,508413,Outside-hours transaction,Closed
+1375,500364,Outside-hours transaction,Open
+1376,509866,Outside-hours transaction,Closed
+1377,505820,Outside-hours transaction,Under Review
+1378,508489,High-value transaction (>= 100000),Closed
+1379,503575,Outside-hours transaction,Closed
+1380,501541,Outside-hours transaction,Closed
+1381,502206,Outside-hours transaction,Closed
+1382,504886,Outside-hours transaction,Open
+1383,508889,Outside-hours transaction,Closed
+1384,504432,Outside-hours transaction,Open
+1385,501206,Outside-hours transaction,Closed
+1386,501172,Outside-hours transaction,Closed
+1387,500891,Outside-hours transaction,Open
+1388,502710,Outside-hours transaction,Under Review
+1389,503974,Outside-hours transaction,Under Review
+1390,503974,Failed transaction,Open
+1391,509427,Outside-hours transaction,Closed
+1392,503544,Outside-hours transaction,Under Review
+1393,504019,Outside-hours transaction,Closed
+1394,503482,Outside-hours transaction,Open
+1395,507238,Failed transaction,Open
+1396,505212,Failed transaction,Under Review
+1397,507249,Outside-hours transaction,Under Review
+1398,504189,Outside-hours transaction,Closed
+1399,502082,Outside-hours transaction,Under Review
+1400,504137,Outside-hours transaction,Open
+1401,507592,Outside-hours transaction,Open
+1402,505264,Outside-hours transaction,Open
+1403,502899,Failed transaction,Closed
+1404,501314,Failed transaction,Under Review
+1405,500265,Multiple transactions within 10 minutes,Closed
+1406,500266,Multiple transactions within 10 minutes,Closed
+1407,500266,Failed transaction,Under Review
+1408,500267,Multiple transactions within 10 minutes,Open
+1409,508740,Outside-hours transaction,Under Review
+1410,500704,Outside-hours transaction,Under Review
+1411,502561,Outside-hours transaction,Under Review
+1412,506538,Outside-hours transaction,Closed
+1413,501556,Outside-hours transaction,Under Review
+1414,501058,Outside-hours transaction,Open
+1415,507160,Failed transaction,Under Review
+1416,509712,Outside-hours transaction,Open
+1417,503580,Outside-hours transaction,Open
+1418,501582,Outside-hours transaction,Open
+1419,508768,Outside-hours transaction,Closed
+1420,506922,Outside-hours transaction,Closed
+1421,508598,Outside-hours transaction,Closed
+1422,507874,High-value transaction (>= 100000),Under Review
+1423,507874,Outside-hours transaction,Closed
+1424,506138,Outside-hours transaction,Under Review
+1425,507739,Outside-hours transaction,Open
+1426,509543,Outside-hours transaction,Under Review
+1427,509543,Failed transaction,Open
+1428,506379,Outside-hours transaction,Under Review
+1429,508847,Failed transaction,Closed
+1430,505839,Outside-hours transaction,Open
+1431,504851,Outside-hours transaction,Under Review
+1432,500881,Outside-hours transaction,Under Review
+1433,500881,Failed transaction,Closed
+1434,505044,Outside-hours transaction,Closed
+1435,509141,Outside-hours transaction,Closed
+1436,507575,Outside-hours transaction,Under Review
+1437,507575,Failed transaction,Closed
+1438,500516,Outside-hours transaction,Under Review
+1439,507755,High-value transaction (>= 100000),Closed
+1440,507302,Outside-hours transaction,Under Review
+1441,508957,Outside-hours transaction,Open
+1442,500921,Outside-hours transaction,Closed
+1443,501777,Outside-hours transaction,Open
+1444,508750,Outside-hours transaction,Under Review
+1445,508702,Outside-hours transaction,Open
+1446,502632,Outside-hours transaction,Closed
+1447,504661,Outside-hours transaction,Closed
+1448,508117,Outside-hours transaction,Under Review
+1449,508117,Failed transaction,Closed
+1450,508563,Outside-hours transaction,Open
+1451,501429,High-value transaction (>= 100000),Closed
+1452,507688,Failed transaction,Open
+1453,508406,Outside-hours transaction,Closed
+1454,509996,Outside-hours transaction,Under Review
+1455,508884,Outside-hours transaction,Closed
+1456,506932,Outside-hours transaction,Under Review
+1457,506556,Outside-hours transaction,Closed
+1458,509342,Outside-hours transaction,Under Review
+1459,502998,Outside-hours transaction,Open
+1460,504815,Outside-hours transaction,Open
+1461,508139,Outside-hours transaction,Open
+1462,507710,Outside-hours transaction,Open
+1463,505547,Outside-hours transaction,Under Review
+1464,505690,Outside-hours transaction,Under Review
+1465,507682,Outside-hours transaction,Open
+1466,504065,Outside-hours transaction,Open
+1467,506953,Outside-hours transaction,Open
+1468,509208,Outside-hours transaction,Closed
+1469,506156,Failed transaction,Open
+1470,509969,High-value transaction (>= 100000),Under Review
+1471,500034,Multiple transactions within 10 minutes,Under Review
+1472,500035,Multiple transactions within 10 minutes,Under Review
+1473,500036,Multiple transactions within 10 minutes,Closed
+1474,505325,Failed transaction,Closed
+1475,504394,Outside-hours transaction,Closed
+1476,501097,Outside-hours transaction,Closed
+1477,506445,Outside-hours transaction,Under Review
+1478,506312,Outside-hours transaction,Closed
+1479,508732,Outside-hours transaction,Closed
+1480,509831,Outside-hours transaction,Closed
+1481,509831,Failed transaction,Open
+1482,508669,Outside-hours transaction,Under Review
+1483,500566,Outside-hours transaction,Closed
+1484,505752,Outside-hours transaction,Open
+1485,508113,Outside-hours transaction,Under Review
+1486,503415,Outside-hours transaction,Closed
+1487,505818,Outside-hours transaction,Under Review
+1488,505072,Outside-hours transaction,Under Review
+1489,504279,Outside-hours transaction,Open
+1490,507540,Outside-hours transaction,Closed
+1491,507540,Failed transaction,Under Review
+1492,503327,Outside-hours transaction,Open
+1493,501859,Outside-hours transaction,Under Review
+1494,506272,Outside-hours transaction,Under Review
+1495,506419,Outside-hours transaction,Open
+1496,507838,Outside-hours transaction,Under Review
+1497,500088,Multiple transactions within 10 minutes,Open
+1498,500089,Multiple transactions within 10 minutes,Closed
+1499,500090,Multiple transactions within 10 minutes,Under Review
+1500,504734,Failed transaction,Closed
+1501,507587,Failed transaction,Closed
+1502,506731,Outside-hours transaction,Under Review
+1503,505561,Outside-hours transaction,Open
+1504,500803,Outside-hours transaction,Under Review
+1505,501583,Outside-hours transaction,Under Review
+1506,508016,Outside-hours transaction,Open
+1507,503909,Outside-hours transaction,Open
+1508,501751,Outside-hours transaction,Under Review
+1509,505934,Outside-hours transaction,Open
+1510,504140,Outside-hours transaction,Closed
+1511,507455,Outside-hours transaction,Open
+1512,507921,Outside-hours transaction,Closed
+1513,504614,Failed transaction,Closed
+1514,509617,Failed transaction,Closed
+1515,501719,Outside-hours transaction,Open
+1516,509649,Outside-hours transaction,Open
+1517,509474,Outside-hours transaction,Under Review
+1518,505565,Outside-hours transaction,Open
+1519,509612,Outside-hours transaction,Open
+1520,509026,Outside-hours transaction,Closed
+1521,501561,Outside-hours transaction,Open
+1522,507198,Failed transaction,Open
+1523,503853,Outside-hours transaction,Closed
+1524,505489,Outside-hours transaction,Open
+1525,503024,Outside-hours transaction,Closed
+1526,500435,Outside-hours transaction,Open
+1527,507457,Outside-hours transaction,Open
+1528,507510,Failed transaction,Under Review
+1529,505883,High-value transaction (>= 100000),Open
+1530,506177,Outside-hours transaction,Closed
+1531,509164,Outside-hours transaction,Open
+1532,501266,Outside-hours transaction,Under Review
+1533,501266,Failed transaction,Open
+1534,507939,Outside-hours transaction,Open
+1535,504772,Outside-hours transaction,Closed
+1536,506844,Outside-hours transaction,Under Review
+1537,506700,Outside-hours transaction,Open
+1538,508100,Failed transaction,Open
+1539,507759,High-value transaction (>= 100000),Closed
+1540,505681,Outside-hours transaction,Open
+1541,509453,Outside-hours transaction,Open
+1542,501257,Outside-hours transaction,Open
+1543,507311,Outside-hours transaction,Under Review
+1544,501641,Outside-hours transaction,Open
+1545,503102,Outside-hours transaction,Closed
+1546,501588,Outside-hours transaction,Under Review
+1547,508324,Failed transaction,Open
+1548,509984,Outside-hours transaction,Open
+1549,509278,Outside-hours transaction,Under Review
+1550,506937,Outside-hours transaction,Open
+1551,503083,Outside-hours transaction,Open
+1552,507761,Outside-hours transaction,Closed
+1553,505010,Outside-hours transaction,Under Review
+1554,507749,High-value transaction (>= 100000),Closed
+1555,502941,Failed transaction,Open
+1556,502036,Outside-hours transaction,Closed
+1557,501136,Outside-hours transaction,Open
+1558,506222,Outside-hours transaction,Under Review
+1559,506222,Failed transaction,Under Review
+1560,506435,Outside-hours transaction,Under Review
+1561,508817,Outside-hours transaction,Closed
+1562,504343,Outside-hours transaction,Closed
+1563,500073,Multiple transactions within 10 minutes,Open
+1564,500073,Failed transaction,Under Review
+1565,500074,Multiple transactions within 10 minutes,Closed
+1566,500075,Multiple transactions within 10 minutes,Open
+1567,508865,Outside-hours transaction,Closed
+1568,501144,Outside-hours transaction,Open
+1569,504709,Outside-hours transaction,Closed
+1570,501504,Outside-hours transaction,Closed
+1571,508584,Outside-hours transaction,Closed
+1572,507650,Outside-hours transaction,Under Review
+1573,506766,Outside-hours transaction,Under Review
+1574,504048,Outside-hours transaction,Closed
+1575,502821,Failed transaction,Open
+1576,503545,Outside-hours transaction,Open
+1577,507737,Outside-hours transaction,Under Review
+1578,501537,Outside-hours transaction,Under Review
+1579,507643,Outside-hours transaction,Under Review
+1580,501207,Outside-hours transaction,Closed
+1581,506546,Outside-hours transaction,Open
+1582,506907,Outside-hours transaction,Under Review
+1583,508749,Outside-hours transaction,Closed
+1584,500145,Multiple transactions within 10 minutes,Under Review
+1585,500146,Multiple transactions within 10 minutes,Open
+1586,500147,Multiple transactions within 10 minutes,Open
+1587,503984,Failed transaction,Under Review
+1588,508815,Outside-hours transaction,Closed
+1589,508815,Failed transaction,Open
+1590,508346,Outside-hours transaction,Open
+1591,503896,Outside-hours transaction,Open
+1592,507751,Outside-hours transaction,Under Review
+1593,507056,Outside-hours transaction,Closed
+1594,502326,Outside-hours transaction,Closed
+1595,503705,Outside-hours transaction,Closed
+1596,502128,Failed transaction,Closed
+1597,509168,Failed transaction,Closed
+1598,509666,Failed transaction,Under Review
+1599,509411,Failed transaction,Under Review
+1600,503751,Outside-hours transaction,Closed
+1601,503751,Failed transaction,Closed
+1602,503408,Outside-hours transaction,Under Review
+1603,502675,Outside-hours transaction,Under Review
+1604,503220,Outside-hours transaction,Closed
+1605,507962,Outside-hours transaction,Closed
+1606,503776,Outside-hours transaction,Under Review
+1607,507828,Outside-hours transaction,Open
+1608,508196,Outside-hours transaction,Closed
+1609,503598,Outside-hours transaction,Open
+1610,501431,Outside-hours transaction,Closed
+1611,501431,Failed transaction,Closed
+1612,505219,Outside-hours transaction,Closed
+1613,502004,Outside-hours transaction,Closed
+1614,503602,Outside-hours transaction,Open
+1615,507142,Failed transaction,Under Review
+1616,509851,Outside-hours transaction,Under Review
+1617,501457,Outside-hours transaction,Open
+1618,508567,Outside-hours transaction,Under Review
+1619,504226,Outside-hours transaction,Under Review
+1620,509393,Outside-hours transaction,Under Review
+1621,503671,Outside-hours transaction,Under Review
+1622,507396,Outside-hours transaction,Under Review
+1623,504981,Outside-hours transaction,Closed
+1624,502800,Outside-hours transaction,Open
+1625,505098,Outside-hours transaction,Under Review
+1626,506858,Outside-hours transaction,Under Review
+1627,502351,Outside-hours transaction,Under Review
+1628,506325,Outside-hours transaction,Closed
+1629,509424,Outside-hours transaction,Under Review
+1630,508590,Outside-hours transaction,Under Review
+1631,506641,Outside-hours transaction,Open
+1632,506641,Failed transaction,Closed
+1633,507633,Outside-hours transaction,Under Review
+1634,500501,Outside-hours transaction,Open
+1635,504670,Outside-hours transaction,Open
+1636,503825,Outside-hours transaction,Open
+1637,502953,Outside-hours transaction,Open
+1638,509580,Outside-hours transaction,Under Review
+1639,502225,Outside-hours transaction,Open
+1640,503540,Outside-hours transaction,Closed
+1641,503820,Outside-hours transaction,Closed
+1642,503563,Outside-hours transaction,Under Review
+1643,500118,Multiple transactions within 10 minutes,Open
+1644,500119,Multiple transactions within 10 minutes,Closed
+1645,500119,Failed transaction,Open
+1646,500120,Multiple transactions within 10 minutes,Closed
+1647,504157,Failed transaction,Closed
+1648,505404,Outside-hours transaction,Closed
+1649,507062,Outside-hours transaction,Under Review
+1650,503856,Outside-hours transaction,Closed
+1651,505382,Outside-hours transaction,Open
+1652,506431,Outside-hours transaction,Under Review
+1653,504753,Outside-hours transaction,Under Review
+1654,506889,Failed transaction,Closed
+1655,500064,Multiple transactions within 10 minutes,Under Review
+1656,500065,Multiple transactions within 10 minutes,Closed
+1657,500066,Multiple transactions within 10 minutes,Open
+1658,500196,Multiple transactions within 10 minutes,Under Review
+1659,500197,Multiple transactions within 10 minutes,Closed
+1660,500197,Failed transaction,Under Review
+1661,500198,Multiple transactions within 10 minutes,Under Review
+1662,504378,Outside-hours transaction,Open
+1663,504378,Failed transaction,Closed
+1664,507715,Outside-hours transaction,Closed
+1665,503293,Outside-hours transaction,Open
+1666,500715,Outside-hours transaction,Open
+1667,505397,Outside-hours transaction,Closed
+1668,501874,Outside-hours transaction,Under Review
+1669,503252,Outside-hours transaction,Open
+1670,505803,Outside-hours transaction,Open
+1671,503862,Outside-hours transaction,Under Review
+1672,501211,Outside-hours transaction,Closed
+1673,508058,Outside-hours transaction,Under Review
+1674,504369,Outside-hours transaction,Open
+1675,507356,Outside-hours transaction,Under Review
+1676,504533,Failed transaction,Closed
+1677,509759,Outside-hours transaction,Open
+1678,500765,Outside-hours transaction,Under Review
+1679,508292,Outside-hours transaction,Closed
+1680,504920,Outside-hours transaction,Closed
+1681,504372,Outside-hours transaction,Closed
+1682,500622,High-value transaction (>= 100000),Closed
+1683,500622,Outside-hours transaction,Closed
+1684,500622,Failed transaction,Closed
+1685,503518,Outside-hours transaction,Open
+1686,504699,Outside-hours transaction,Closed
+1687,501524,Outside-hours transaction,Closed
+1688,501968,High-value transaction (>= 100000),Closed
+1689,507947,Outside-hours transaction,Under Review
+1690,503601,Outside-hours transaction,Open
+1691,502354,Outside-hours transaction,Open
+1692,506895,Outside-hours transaction,Under Review
+1693,501540,Outside-hours transaction,Closed
+1694,504310,Failed transaction,Under Review
+1695,508477,Outside-hours transaction,Under Review
+1696,506603,Outside-hours transaction,Under Review
+1697,509531,Outside-hours transaction,Open
+1698,509074,Outside-hours transaction,Open
+1699,501363,Outside-hours transaction,Open
+1700,506759,Outside-hours transaction,Closed
+1701,508463,Outside-hours transaction,Closed
+1702,508463,Failed transaction,Under Review
+1703,502457,High-value transaction (>= 100000),Open
+1704,502457,Outside-hours transaction,Open
+1705,506510,Outside-hours transaction,Closed
+1706,500205,Multiple transactions within 10 minutes,Closed
+1707,500206,Multiple transactions within 10 minutes,Open
+1708,500206,Failed transaction,Open
+1709,500207,Multiple transactions within 10 minutes,Closed
+1710,509704,Failed transaction,Closed
+1711,509153,Outside-hours transaction,Open
+1712,506544,Outside-hours transaction,Under Review
+1713,503593,Outside-hours transaction,Under Review
+1714,503593,Failed transaction,Under Review
+1715,502237,Outside-hours transaction,Under Review
+1716,503890,Outside-hours transaction,Open
+1717,503383,Outside-hours transaction,Under Review
+1718,506550,Failed transaction,Under Review
+1719,509620,High-value transaction (>= 100000),Closed
+1720,504722,Failed transaction,Under Review
+1721,506874,Outside-hours transaction,Closed
+1722,509604,Outside-hours transaction,Closed
+1723,502474,Outside-hours transaction,Open
+1724,509415,Outside-hours transaction,Open
+1725,509415,Failed transaction,Open
+1726,509749,Outside-hours transaction,Open
+1727,509746,Outside-hours transaction,Closed
+1728,501842,Outside-hours transaction,Open
+1729,504938,Outside-hours transaction,Closed
+1730,503624,Outside-hours transaction,Open
+1731,507446,Outside-hours transaction,Under Review
+1732,501068,Outside-hours transaction,Under Review
+1733,503836,Outside-hours transaction,Closed
+1734,500103,Multiple transactions within 10 minutes,Under Review
+1735,500104,Multiple transactions within 10 minutes,Under Review
+1736,500105,Multiple transactions within 10 minutes,Closed
+1737,501608,Outside-hours transaction,Under Review
+1738,501507,Outside-hours transaction,Under Review
+1739,506111,Outside-hours transaction,Under Review
+1740,502048,Outside-hours transaction,Open
+1741,503761,Outside-hours transaction,Closed
+1742,506560,Outside-hours transaction,Open
+1743,503431,Outside-hours transaction,Under Review
+1744,501838,High-value transaction (>= 100000),Under Review
+1745,506967,High-value transaction (>= 100000),Open
+1746,507349,Outside-hours transaction,Under Review
+1747,505120,Outside-hours transaction,Closed
+1748,506908,Outside-hours transaction,Closed
+1749,500790,Outside-hours transaction,Closed
+1750,503948,Outside-hours transaction,Under Review
+1751,505288,Failed transaction,Closed
+1752,504260,Failed transaction,Closed
+1753,502261,Outside-hours transaction,Under Review
+1754,503635,Outside-hours transaction,Open
+1755,507552,Outside-hours transaction,Open
+1756,503824,Outside-hours transaction,Under Review
+1757,502395,Failed transaction,Closed
+1758,502361,Failed transaction,Open
+1759,504246,Failed transaction,Open
+1760,507942,Failed transaction,Open
+1761,501408,Outside-hours transaction,Under Review
+1762,507707,Outside-hours transaction,Open
+1763,503737,Outside-hours transaction,Open
+1764,506669,Outside-hours transaction,Under Review
+1765,501497,Outside-hours transaction,Under Review
+1766,503889,Outside-hours transaction,Under Review
+1767,503625,Outside-hours transaction,Open
+1768,500427,Outside-hours transaction,Open
+1769,501626,Outside-hours transaction,Under Review
+1770,501880,High-value transaction (>= 100000),Closed
+1771,501086,High-value transaction (>= 100000),Under Review
+1772,501086,Failed transaction,Open
+1773,502309,Outside-hours transaction,Open
+1774,502309,Failed transaction,Under Review
+1775,502172,Outside-hours transaction,Closed
+1776,500949,Outside-hours transaction,Closed
+1777,501688,Outside-hours transaction,Open
+1778,508316,Outside-hours transaction,Closed
+1779,508638,Outside-hours transaction,Closed
+1780,507064,Outside-hours transaction,Closed
+1781,501084,High-value transaction (>= 100000),Under Review
+1782,501084,Failed transaction,Open
+1783,502841,Outside-hours transaction,Under Review
+1784,502907,Outside-hours transaction,Closed
+1785,509203,Outside-hours transaction,Open
+1786,503612,Outside-hours transaction,Under Review
+1787,502839,Outside-hours transaction,Open
+1788,506480,Failed transaction,Under Review
+1789,501238,Failed transaction,Open
+1790,500214,Multiple transactions within 10 minutes,Under Review
+1791,500215,Multiple transactions within 10 minutes,Closed
+1792,500216,Multiple transactions within 10 minutes,Under Review
+1793,508556,Outside-hours transaction,Closed
+1794,503801,Outside-hours transaction,Under Review
+1795,503755,Outside-hours transaction,Closed
+1796,503446,Outside-hours transaction,Closed
+1797,501295,Outside-hours transaction,Under Review
+1798,503650,Outside-hours transaction,Under Review
+1799,509146,Outside-hours transaction,Open
+1800,505616,Outside-hours transaction,Under Review
+1801,504871,Outside-hours transaction,Open
+1802,506815,Outside-hours transaction,Under Review
+1803,501153,Outside-hours transaction,Open
+1804,503472,Outside-hours transaction,Closed
+1805,509857,Outside-hours transaction,Under Review
+1806,500289,Multiple transactions within 10 minutes,Closed
+1807,500290,Multiple transactions within 10 minutes,Under Review
+1808,500291,Multiple transactions within 10 minutes,Open
+1809,508519,High-value transaction (>= 100000),Under Review
+1810,508519,Outside-hours transaction,Open
+1811,502634,Outside-hours transaction,Open
+1812,503849,Outside-hours transaction,Under Review
+1813,506723,Outside-hours transaction,Closed
+1814,507638,Outside-hours transaction,Under Review
+1815,507034,Outside-hours transaction,Closed
+1816,502526,High-value transaction (>= 100000),Open
+1817,505159,Failed transaction,Under Review
+1818,507580,Failed transaction,Under Review
+1819,509560,Failed transaction,Closed
+1820,503513,Outside-hours transaction,Under Review
+1821,506658,Outside-hours transaction,Open
+1822,508350,Outside-hours transaction,Under Review
+1823,505424,Outside-hours transaction,Open
+1824,508807,Outside-hours transaction,Open
+1825,507321,Outside-hours transaction,Closed
+1826,500124,Multiple transactions within 10 minutes,Closed
+1827,500125,Multiple transactions within 10 minutes,Open
+1828,500126,Multiple transactions within 10 minutes,Closed
+1829,500126,Failed transaction,Closed
+1830,505224,Failed transaction,Open
+1831,503534,Outside-hours transaction,Under Review
+1832,505301,Outside-hours transaction,Under Review
+1833,503693,Outside-hours transaction,Closed
+1834,503693,Failed transaction,Closed
+1835,509439,Outside-hours transaction,Open
+1836,509957,Outside-hours transaction,Open
+1837,509957,Failed transaction,Open
+1838,500967,Outside-hours transaction,Open
+1839,503212,Outside-hours transaction,Under Review
+1840,504523,High-value transaction (>= 100000),Open
+1841,504523,Outside-hours transaction,Open
+1842,504025,Outside-hours transaction,Closed
+1843,507695,Outside-hours transaction,Open
+1844,507695,Failed transaction,Closed
+1845,506203,Outside-hours transaction,Open
+1846,506203,Failed transaction,Open
+1847,508988,Failed transaction,Closed
+1848,504982,Failed transaction,Under Review
+1849,507017,Failed transaction,Under Review
+1850,502701,Outside-hours transaction,Closed
+1851,506941,Outside-hours transaction,Closed
+1852,503823,Outside-hours transaction,Under Review
+1853,509678,Outside-hours transaction,Closed
+1854,506107,Outside-hours transaction,Closed
+1855,502715,Outside-hours transaction,Closed
+1856,503100,Outside-hours transaction,Closed
+1857,500259,Multiple transactions within 10 minutes,Closed
+1858,500259,Failed transaction,Under Review
+1859,500260,Multiple transactions within 10 minutes,Closed
+1860,500261,Multiple transactions within 10 minutes,Under Review
+1861,500261,Failed transaction,Open
+1862,508451,Failed transaction,Under Review
+1863,506536,Outside-hours transaction,Open
+1864,506767,Outside-hours transaction,Under Review
+1865,503216,Outside-hours transaction,Under Review
+1866,505192,Outside-hours transaction,Closed
+1867,504694,High-value transaction (>= 100000),Under Review
+1868,504694,Outside-hours transaction,Under Review
+1869,509143,Outside-hours transaction,Closed
+1870,509143,Failed transaction,Open
+1871,509943,Outside-hours transaction,Under Review
+1872,508680,Outside-hours transaction,Closed
+1873,509610,Outside-hours transaction,Open
+1874,505781,Outside-hours transaction,Under Review
+1875,507844,Outside-hours transaction,Under Review
+1876,503920,Outside-hours transaction,Under Review
+1877,503920,Failed transaction,Open
+1878,500791,Outside-hours transaction,Open
+1879,501691,Outside-hours transaction,Under Review
+1880,505138,Outside-hours transaction,Under Review
+1881,507925,Outside-hours transaction,Open
+1882,506995,Outside-hours transaction,Closed
+1883,501976,Outside-hours transaction,Open
+1884,508042,Outside-hours transaction,Closed
+1885,509926,Failed transaction,Closed
+1886,506043,Outside-hours transaction,Closed
+1887,500529,Outside-hours transaction,Under Review
+1888,500665,Outside-hours transaction,Under Review
+1889,500495,Outside-hours transaction,Closed
+1890,506292,Outside-hours transaction,Closed
+1891,506188,Outside-hours transaction,Closed
+1892,502649,High-value transaction (>= 100000),Open
+1893,502649,Outside-hours transaction,Under Review
+1894,505036,Outside-hours transaction,Closed
+1895,507096,Outside-hours transaction,Closed
+1896,505936,Outside-hours transaction,Open
+1897,509172,Outside-hours transaction,Under Review
+1898,502673,Outside-hours transaction,Closed
+1899,501757,Outside-hours transaction,Under Review
+1900,504202,Outside-hours transaction,Closed
+1901,509973,Outside-hours transaction,Open
+1902,500827,Outside-hours transaction,Open
+1903,501132,Outside-hours transaction,Under Review
+1904,509529,Outside-hours transaction,Open
+1905,506092,Outside-hours transaction,Under Review
+1906,502976,Outside-hours transaction,Closed
+1907,503590,Outside-hours transaction,Open
+1908,502751,Outside-hours transaction,Closed
+1909,502515,Outside-hours transaction,Closed
+1910,502515,Failed transaction,Open
+1911,502810,Outside-hours transaction,Open
+1912,509287,Outside-hours transaction,Open
+1913,504745,Outside-hours transaction,Closed
+1914,504511,Outside-hours transaction,Under Review
+1915,502516,Outside-hours transaction,Under Review
+1916,504101,Outside-hours transaction,Closed
+1917,502876,Outside-hours transaction,Closed
+1918,502876,Failed transaction,Closed
+1919,504056,Outside-hours transaction,Open
+1920,502498,Outside-hours transaction,Under Review
+1921,503720,Outside-hours transaction,Under Review
+1922,500773,Outside-hours transaction,Under Review
+1923,502032,Outside-hours transaction,Under Review
+1924,505416,Failed transaction,Under Review
+1925,501870,Failed transaction,Under Review
+1926,503311,Failed transaction,Closed
+1927,508578,Failed transaction,Closed
+1928,508891,Outside-hours transaction,Open
+1929,501731,Outside-hours transaction,Closed
+1930,509503,Outside-hours transaction,Closed
+1931,503465,Outside-hours transaction,Under Review
+1932,503465,Failed transaction,Open
+1933,501533,Outside-hours transaction,Under Review
+1934,507534,Outside-hours transaction,Open
+1935,500738,Outside-hours transaction,Closed
+1936,506052,Outside-hours transaction,Closed
+1937,508803,Outside-hours transaction,Under Review
+1938,505078,Outside-hours transaction,Under Review
+1939,508107,Outside-hours transaction,Under Review
+1940,502389,Outside-hours transaction,Closed
+1941,500559,High-value transaction (>= 100000),Closed
+1942,507369,Failed transaction,Closed
+1943,500808,High-value transaction (>= 100000),Open
+1944,506426,Outside-hours transaction,Under Review
+1945,506426,Failed transaction,Open
+1946,505846,Outside-hours transaction,Closed
+1947,505279,Outside-hours transaction,Closed
+1948,508377,Outside-hours transaction,Open
+1949,502266,Outside-hours transaction,Under Review
+1950,501302,Outside-hours transaction,Under Review
+1951,507603,Failed transaction,Closed
+1952,507706,Failed transaction,Closed
+1953,500070,Multiple transactions within 10 minutes,Closed
+1954,500071,Multiple transactions within 10 minutes,Under Review
+1955,500072,Multiple transactions within 10 minutes,Open
+1956,509117,Outside-hours transaction,Closed
+1957,506718,Outside-hours transaction,Closed
+1958,506184,Outside-hours transaction,Open
+1959,503716,Outside-hours transaction,Under Review
+1960,500974,Outside-hours transaction,Closed
+1961,508243,Outside-hours transaction,Under Review
+1962,505238,Outside-hours transaction,Closed
+1963,500521,Outside-hours transaction,Under Review
+1964,500220,Multiple transactions within 10 minutes,Open
+1965,500221,Multiple transactions within 10 minutes,Closed
+1966,500222,Multiple transactions within 10 minutes,Closed
+1967,504062,High-value transaction (>= 100000),Closed
+1968,504062,Outside-hours transaction,Closed
+1969,508294,Outside-hours transaction,Closed
+1970,500840,High-value transaction (>= 100000),Open
+1971,500840,Outside-hours transaction,Closed
+1972,506654,Outside-hours transaction,Closed
+1973,500106,Multiple transactions within 10 minutes,Under Review
+1974,500106,Failed transaction,Closed
+1975,500107,Multiple transactions within 10 minutes,Under Review
+1976,500108,Multiple transactions within 10 minutes,Open
+1977,500313,High-value transaction (>= 100000),Under Review
+1978,500313,Outside-hours transaction,Under Review
+1979,507027,Outside-hours transaction,Open
+1980,504360,Outside-hours transaction,Open
+1981,508470,Outside-hours transaction,Under Review
+1982,508871,Outside-hours transaction,Under Review
+1983,504947,Failed transaction,Open
+1984,505478,Failed transaction,Open
+1985,504744,Outside-hours transaction,Open
+1986,508532,Outside-hours transaction,Open
+1987,507106,Outside-hours transaction,Open
+1988,502315,Outside-hours transaction,Under Review
+1989,503788,Outside-hours transaction,Open
+1990,503029,Failed transaction,Closed
+1991,507803,Outside-hours transaction,Closed
+1992,505717,Outside-hours transaction,Closed
+1993,507563,Outside-hours transaction,Closed
+1994,502588,Outside-hours transaction,Open
+1995,503296,Outside-hours transaction,Closed
+1996,502166,Outside-hours transaction,Under Review
+1997,505966,Failed transaction,Closed
+1998,500322,Failed transaction,Open
+1999,508382,Outside-hours transaction,Closed
+2000,508382,Failed transaction,Under Review
+2001,506679,Outside-hours transaction,Open
+2002,505852,Outside-hours transaction,Open
+2003,507595,Outside-hours transaction,Open
+2004,509043,Outside-hours transaction,Closed
+2005,501223,Outside-hours transaction,Closed
+2006,503392,Failed transaction,Open
+2007,502086,Failed transaction,Closed
+2008,506604,Failed transaction,Under Review
+2009,506213,Outside-hours transaction,Open
+2010,504008,Outside-hours transaction,Under Review
+2011,508974,Outside-hours transaction,Under Review
+2012,507420,Outside-hours transaction,Closed
+2013,502655,Outside-hours transaction,Closed
+2014,502655,Failed transaction,Open
+2015,501052,Outside-hours transaction,Under Review
+2016,506804,Failed transaction,Closed
+2017,501421,Failed transaction,Under Review
+2018,501414,Failed transaction,Closed
+2019,503349,Failed transaction,Under Review
+2020,504530,Outside-hours transaction,Open
+2021,504538,Outside-hours transaction,Closed
+2022,507268,Outside-hours transaction,Open
+2023,509197,High-value transaction (>= 100000),Under Review
+2024,509197,Outside-hours transaction,Under Review
+2025,505400,Outside-hours transaction,Open
+2026,503729,Outside-hours transaction,Under Review
+2027,507335,Outside-hours transaction,Closed
+2028,503277,Outside-hours transaction,Closed
+2029,503277,Failed transaction,Under Review
+2030,507827,Outside-hours transaction,Under Review
+2031,507756,Outside-hours transaction,Under Review
+2032,501521,Outside-hours transaction,Under Review
+2033,506301,Failed transaction,Closed
+2034,509191,High-value transaction (>= 100000),Closed
+2035,509108,Failed transaction,Under Review
+2036,504563,Outside-hours transaction,Open
+2037,504563,Failed transaction,Open
+2038,500329,Outside-hours transaction,Closed
+2039,501487,Outside-hours transaction,Open
+2040,506774,Outside-hours transaction,Under Review
+2041,506691,Outside-hours transaction,Open
+2042,505842,Outside-hours transaction,Closed
+2043,509760,High-value transaction (>= 100000),Under Review
+2044,503457,High-value transaction (>= 100000),Under Review
+2045,505207,Outside-hours transaction,Closed
+2046,506106,Outside-hours transaction,Open
+2047,507074,Outside-hours transaction,Closed
+2048,502749,Outside-hours transaction,Closed
+2049,509888,Outside-hours transaction,Open
+2050,500570,Outside-hours transaction,Under Review
+2051,500959,Outside-hours transaction,Open
+2052,503735,Outside-hours transaction,Open
+2053,509268,Outside-hours transaction,Under Review
+2054,508080,Outside-hours transaction,Under Review
+2055,502761,High-value transaction (>= 100000),Closed
+2056,503013,High-value transaction (>= 100000),Open
+2057,509606,Failed transaction,Under Review
+2058,507425,Outside-hours transaction,Open
+2059,507879,Outside-hours transaction,Open
+2060,506650,Outside-hours transaction,Under Review
+2061,506210,High-value transaction (>= 100000),Under Review
+2062,506210,Outside-hours transaction,Open
+2063,507095,Outside-hours transaction,Under Review
+2064,504423,Outside-hours transaction,Open
+2065,508293,Outside-hours transaction,Under Review
+2066,507544,Outside-hours transaction,Closed
+2067,507544,Failed transaction,Under Review
+2068,502074,Outside-hours transaction,Open
+2069,502476,Failed transaction,Under Review
+2070,509579,Failed transaction,Open
+2071,509227,Outside-hours transaction,Under Review
+2072,501742,Outside-hours transaction,Open
+2073,504021,Outside-hours transaction,Open
+2074,505877,Outside-hours transaction,Under Review
+2075,509400,Outside-hours transaction,Open
+2076,504161,Outside-hours transaction,Closed
+2077,507257,Outside-hours transaction,Closed
+2078,502407,Outside-hours transaction,Under Review
+2079,504338,Outside-hours transaction,Open
+2080,509003,Outside-hours transaction,Open
+2081,508200,Outside-hours transaction,Open
+2082,501905,Outside-hours transaction,Under Review
+2083,503232,Outside-hours transaction,Under Review
+2084,505987,Outside-hours transaction,Closed
+2085,505987,Failed transaction,Open
+2086,504379,Outside-hours transaction,Closed
+2087,502797,Outside-hours transaction,Under Review
+2088,505860,Outside-hours transaction,Under Review
+2089,507287,Outside-hours transaction,Closed
+2090,503323,Outside-hours transaction,Open
+2091,508194,Outside-hours transaction,Open
+2092,500676,Outside-hours transaction,Open
+2093,505141,Outside-hours transaction,Under Review
+2094,501230,Failed transaction,Open
+2095,500286,Multiple transactions within 10 minutes,Open
+2096,500287,Multiple transactions within 10 minutes,Closed
+2097,500288,Multiple transactions within 10 minutes,Closed
+2098,503919,Failed transaction,Closed
+2099,506973,Failed transaction,Closed
+2100,507029,Outside-hours transaction,Under Review
+2101,504121,Outside-hours transaction,Open
+2102,509014,Outside-hours transaction,Under Review
+2103,500889,Outside-hours transaction,Open
+2104,506374,Outside-hours transaction,Under Review
+2105,507069,Outside-hours transaction,Open
+2106,507069,Failed transaction,Open
+2107,501251,Outside-hours transaction,Open
+2108,507995,Outside-hours transaction,Under Review
+2109,509389,Outside-hours transaction,Closed
+2110,507508,Outside-hours transaction,Closed
+2111,504955,Outside-hours transaction,Under Review
+2112,509807,Outside-hours transaction,Open
+2113,503951,Outside-hours transaction,Open
+2114,508330,Failed transaction,Under Review
+2115,502299,Failed transaction,Closed
+2116,503993,Outside-hours transaction,Closed
+2117,503993,Failed transaction,Open
+2118,501015,Outside-hours transaction,Closed
+2119,505524,Outside-hours transaction,Closed
+2120,508232,Outside-hours transaction,Closed
+2121,506353,Outside-hours transaction,Open
+2122,505831,Outside-hours transaction,Closed
+2123,508641,Outside-hours transaction,Open
+2124,502530,Outside-hours transaction,Under Review
+2125,508132,Outside-hours transaction,Under Review
+2126,505564,Outside-hours transaction,Open
+2127,503606,Failed transaction,Closed
+2128,500619,Failed transaction,Under Review
+2129,500208,Multiple transactions within 10 minutes,Open
+2130,500209,Multiple transactions within 10 minutes,Closed
+2131,500210,Multiple transactions within 10 minutes,Under Review
+2132,508230,Outside-hours transaction,Open
+2133,500966,Outside-hours transaction,Closed
+2134,507811,Outside-hours transaction,Closed
+2135,502533,Outside-hours transaction,Open
+2136,506553,Outside-hours transaction,Closed
+2137,509753,Outside-hours transaction,Under Review
+2138,508577,Outside-hours transaction,Open
+2139,508964,Outside-hours transaction,Closed
+2140,507025,Outside-hours transaction,Closed
+2141,505749,Failed transaction,Closed
+2142,504565,Failed transaction,Closed
+2143,501061,Outside-hours transaction,Closed
+2144,506291,Outside-hours transaction,Open
+2145,508670,Outside-hours transaction,Under Review
+2146,502492,Outside-hours transaction,Under Review
+2147,507326,Outside-hours transaction,Open
+2148,501909,Outside-hours transaction,Closed
+2149,506027,Outside-hours transaction,Under Review
+2150,505999,Outside-hours transaction,Under Review
+2151,504067,Outside-hours transaction,Under Review
+2152,501196,Outside-hours transaction,Closed
+2153,505990,Outside-hours transaction,Open
+2154,509038,Outside-hours transaction,Under Review
+2155,509665,High-value transaction (>= 100000),Open
+2156,508805,Failed transaction,Under Review
+2157,502070,Outside-hours transaction,Open
+2158,506834,Outside-hours transaction,Closed
+2159,504096,Outside-hours transaction,Closed
+2160,504096,Failed transaction,Closed
+2161,507614,Outside-hours transaction,Open
+2162,505403,Outside-hours transaction,Closed
+2163,504230,Outside-hours transaction,Closed
+2164,508264,Outside-hours transaction,Under Review
+2165,509535,Outside-hours transaction,Open
+2166,509288,Outside-hours transaction,Open
+2167,500181,Multiple transactions within 10 minutes,Under Review
+2168,500182,Multiple transactions within 10 minutes,Closed
+2169,500183,Multiple transactions within 10 minutes,Under Review
+2170,506634,Failed transaction,Closed
+2171,507030,Outside-hours transaction,Open
+2172,501488,Outside-hours transaction,Closed
+2173,505587,Outside-hours transaction,Under Review
+2174,508752,Outside-hours transaction,Closed
+2175,508533,Outside-hours transaction,Under Review
+2176,506178,Outside-hours transaction,Closed
+2177,503042,Outside-hours transaction,Open
+2178,506458,Outside-hours transaction,Open
+2179,508697,Outside-hours transaction,Open
+2180,500013,Multiple transactions within 10 minutes,Closed
+2181,500013,Failed transaction,Under Review
+2182,500014,Multiple transactions within 10 minutes,Open
+2183,500015,Multiple transactions within 10 minutes,Under Review
+2184,505988,Failed transaction,Open
+2185,508380,Failed transaction,Open
+2186,508941,Failed transaction,Open
+2187,502686,Outside-hours transaction,Open
+2188,500611,Outside-hours transaction,Under Review
+2189,500611,Failed transaction,Under Review
+2190,509449,Outside-hours transaction,Closed
+2191,505227,Outside-hours transaction,Under Review
+2192,502897,Outside-hours transaction,Closed
+2193,503740,Outside-hours transaction,Under Review
+2194,508997,Outside-hours transaction,Under Review
+2195,505101,Outside-hours transaction,Open
+2196,506397,Outside-hours transaction,Closed
+2197,502512,Failed transaction,Open
+2198,500139,Multiple transactions within 10 minutes,Under Review
+2199,500140,Multiple transactions within 10 minutes,Under Review
+2200,500141,Multiple transactions within 10 minutes,Open
+2201,500357,Failed transaction,Closed
+2202,500475,Outside-hours transaction,Under Review
+2203,506639,Outside-hours transaction,Under Review
+2204,509628,Outside-hours transaction,Open
+2205,501034,Outside-hours transaction,Under Review
+2206,506004,Outside-hours transaction,Under Review
+2207,502378,Outside-hours transaction,Under Review
+2208,509050,Outside-hours transaction,Closed
+2209,501515,Outside-hours transaction,Under Review
+2210,501596,Outside-hours transaction,Under Review
+2211,509192,Outside-hours transaction,Under Review
+2212,507662,Outside-hours transaction,Open
+2213,502191,Outside-hours transaction,Under Review
+2214,504605,Outside-hours transaction,Closed
+2215,505622,Outside-hours transaction,Under Review
+2216,505588,Outside-hours transaction,Under Review
+2217,508846,Outside-hours transaction,Closed
+2218,507567,Outside-hours transaction,Under Review
+2219,503652,Outside-hours transaction,Open
+2220,509219,Outside-hours transaction,Closed
+2221,505446,Outside-hours transaction,Under Review
+2222,508539,Outside-hours transaction,Open
+2223,507416,Outside-hours transaction,Under Review
+2224,500797,Outside-hours transaction,Closed
+2225,507661,Outside-hours transaction,Open
+2226,505583,High-value transaction (>= 100000),Closed
+2227,505583,Outside-hours transaction,Under Review
+2228,502007,Outside-hours transaction,Under Review
+2229,505954,Outside-hours transaction,Open
+2230,507753,Outside-hours transaction,Open
+2231,505411,Outside-hours transaction,Under Review
+2232,506513,Outside-hours transaction,Closed
+2233,502240,Outside-hours transaction,Under Review
+2234,509435,Outside-hours transaction,Under Review
+2235,501857,Outside-hours transaction,Under Review
+2236,508945,Outside-hours transaction,Closed
+2237,503746,Outside-hours transaction,Closed
+2238,504317,Outside-hours transaction,Under Review
+2239,502451,Outside-hours transaction,Open
+2240,508081,Outside-hours transaction,Closed
+2241,508081,Failed transaction,Under Review
+2242,502235,Failed transaction,Under Review
+2243,505291,Outside-hours transaction,Under Review
+2244,503268,Outside-hours transaction,Open
+2245,509284,Outside-hours transaction,Closed
+2246,502852,Outside-hours transaction,Under Review
+2247,505418,Outside-hours transaction,Closed
+2248,502860,Outside-hours transaction,Under Review
+2249,502860,Failed transaction,Under Review
+2250,509514,Outside-hours transaction,Closed
+2251,503768,Outside-hours transaction,Open
+2252,503697,Outside-hours transaction,Open
+2253,502594,Failed transaction,Closed
+2254,501159,High-value transaction (>= 100000),Closed
+2255,500091,Multiple transactions within 10 minutes,Under Review
+2256,500092,Multiple transactions within 10 minutes,Under Review
+2257,500093,Multiple transactions within 10 minutes,Closed
+2258,509471,Failed transaction,Closed
+2259,508235,Outside-hours transaction,Closed
+2260,506938,Outside-hours transaction,Open
+2261,500596,Outside-hours transaction,Open
+2262,502822,Outside-hours transaction,Open
+2263,503346,Outside-hours transaction,Closed
+2264,508581,Outside-hours transaction,Closed
+2265,504181,Outside-hours transaction,Under Review
+2266,504806,Outside-hours transaction,Open
+2267,509824,Outside-hours transaction,Open
+2268,509828,Outside-hours transaction,Open
+2269,507789,High-value transaction (>= 100000),Open
+2270,500702,Outside-hours transaction,Closed
+2271,503445,Outside-hours transaction,Under Review
+2272,505413,Outside-hours transaction,Under Review
+2273,502666,Outside-hours transaction,Under Review
+2274,507598,Outside-hours transaction,Closed
+2275,502563,Outside-hours transaction,Open
+2276,500977,Outside-hours transaction,Closed
+2277,508497,Failed transaction,Open
+2278,504312,Failed transaction,Closed
+2279,506606,Outside-hours transaction,Under Review
+2280,500557,Outside-hours transaction,Under Review
+2281,501113,Outside-hours transaction,Under Review
+2282,507295,Outside-hours transaction,Under Review
+2283,506772,Failed transaction,Open
+2284,503097,Outside-hours transaction,Closed
+2285,504283,Outside-hours transaction,Open
+2286,506524,High-value transaction (>= 100000),Closed
+2287,506524,Outside-hours transaction,Under Review
+2288,504986,Outside-hours transaction,Under Review
+2289,501081,Outside-hours transaction,Under Review
+2290,506545,Outside-hours transaction,Closed
+2291,500980,Outside-hours transaction,Under Review
+2292,504408,Failed transaction,Open
+2293,501665,Failed transaction,Open
+2294,501169,Outside-hours transaction,Open
+2295,505809,Outside-hours transaction,Closed
+2296,509641,Outside-hours transaction,Open
+2297,509641,Failed transaction,Under Review
+2298,507372,Outside-hours transaction,Closed
+2299,504684,Outside-hours transaction,Under Review
+2300,508127,Outside-hours transaction,Closed
+2301,500922,Outside-hours transaction,Open
+2302,506646,Outside-hours transaction,Under Review
+2303,506646,Failed transaction,Under Review
+2304,501345,Failed transaction,Closed
+2305,500163,Multiple transactions within 10 minutes,Under Review
+2306,500164,Multiple transactions within 10 minutes,Open
+2307,500165,Multiple transactions within 10 minutes,Closed
+2308,506921,Failed transaction,Under Review
+2309,500244,Multiple transactions within 10 minutes,Closed
+2310,500245,Multiple transactions within 10 minutes,Under Review
+2311,500245,Failed transaction,Open
+2312,500246,Multiple transactions within 10 minutes,Open
+2313,502219,Failed transaction,Open
+2314,501221,Outside-hours transaction,Open
+2315,501401,Outside-hours transaction,Under Review
+2316,506024,Outside-hours transaction,Open
+2317,507940,Outside-hours transaction,Closed
+2318,509637,Outside-hours transaction,Under Review
+2319,508135,Outside-hours transaction,Open
+2320,503080,Outside-hours transaction,Closed
+2321,505889,Outside-hours transaction,Under Review
+2322,502638,Outside-hours transaction,Closed
+2323,501830,Outside-hours transaction,Under Review
+2324,506076,Outside-hours transaction,Closed
+2325,501481,Outside-hours transaction,Open
+2326,507148,Failed transaction,Closed
+2327,503063,Failed transaction,Closed
+2328,505391,Outside-hours transaction,Under Review
+2329,509198,Outside-hours transaction,Under Review
+2330,509457,Outside-hours transaction,Open
+2331,505924,Outside-hours transaction,Closed
+2332,505242,Outside-hours transaction,Closed
+2333,508174,Outside-hours transaction,Closed
+2334,506317,Outside-hours transaction,Closed
+2335,501213,Outside-hours transaction,Open
+2336,501213,Failed transaction,Under Review
+2337,506528,Outside-hours transaction,Closed
+2338,508401,High-value transaction (>= 100000),Open
+2339,504585,Outside-hours transaction,Open
+2340,508916,Outside-hours transaction,Open
+2341,508916,Failed transaction,Open
+2342,509472,Outside-hours transaction,Open
+2343,506296,Outside-hours transaction,Under Review
+2344,506367,Outside-hours transaction,Open
+2345,508021,Outside-hours transaction,Under Review
+2346,502151,Outside-hours transaction,Closed
+2347,505161,Outside-hours transaction,Closed
+2348,508214,Outside-hours transaction,Under Review
+2349,501674,High-value transaction (>= 100000),Under Review
+2350,500022,Multiple transactions within 10 minutes,Closed
+2351,500023,Multiple transactions within 10 minutes,Open
+2352,500024,Multiple transactions within 10 minutes,Closed
+2353,502364,Failed transaction,Open
+2354,503961,Failed transaction,Open
+2355,507333,Outside-hours transaction,Under Review
+2356,507219,Outside-hours transaction,Under Review
+2357,508903,Outside-hours transaction,Closed
+2358,504422,Outside-hours transaction,Closed
+2359,500589,Outside-hours transaction,Under Review
+2360,508616,Outside-hours transaction,Closed
+2361,509011,Outside-hours transaction,Under Review
+2362,507149,Outside-hours transaction,Under Review
+2363,501548,Outside-hours transaction,Closed
+2364,503078,Outside-hours transaction,Open
+2365,503348,Outside-hours transaction,Open
+2366,500160,Multiple transactions within 10 minutes,Under Review
+2367,500161,Multiple transactions within 10 minutes,Closed
+2368,500162,Multiple transactions within 10 minutes,Open
+2369,509462,Failed transaction,Under Review
+2370,509853,High-value transaction (>= 100000),Under Review
+2371,504636,Failed transaction,Closed
+2372,500085,Multiple transactions within 10 minutes,Closed
+2373,500086,Multiple transactions within 10 minutes,Under Review
+2374,500087,Multiple transactions within 10 minutes,Open
+2375,500087,Failed transaction,Closed
+2376,509838,Outside-hours transaction,Closed
+2377,509838,Failed transaction,Closed
+2378,501635,Outside-hours transaction,Open
+2379,505557,Outside-hours transaction,Open
+2380,501981,Outside-hours transaction,Under Review
+2381,502157,Outside-hours transaction,Closed
+2382,508503,Outside-hours transaction,Open
+2383,500082,Multiple transactions within 10 minutes,Open
+2384,500083,Multiple transactions within 10 minutes,Closed
+2385,500084,Multiple transactions within 10 minutes,Open
+2386,503826,Failed transaction,Under Review
+2387,500868,Failed transaction,Open
+2388,502518,Outside-hours transaction,Open
+2389,504143,Outside-hours transaction,Under Review
+2390,509900,Outside-hours transaction,Closed
+2391,502174,Outside-hours transaction,Open
+2392,507893,Outside-hours transaction,Under Review
+2393,504370,Outside-hours transaction,Closed
+2394,505915,Outside-hours transaction,Under Review
+2395,505915,Failed transaction,Open
+2396,507785,High-value transaction (>= 100000),Under Review
+2397,507454,High-value transaction (>= 100000),Open
+2398,504796,Outside-hours transaction,Closed
+2399,504502,Outside-hours transaction,Closed
+2400,509707,Outside-hours transaction,Under Review
+2401,509215,Outside-hours transaction,Open
+2402,508826,Outside-hours transaction,Closed
+2403,507615,Outside-hours transaction,Under Review
+2404,506879,Outside-hours transaction,Closed
+2405,504865,Outside-hours transaction,Closed
+2406,508313,Outside-hours transaction,Open
+2407,505569,Outside-hours transaction,Closed
+2408,503124,Outside-hours transaction,Closed
+2409,503124,Failed transaction,Open
+2410,507316,Outside-hours transaction,Closed
+2411,509988,Outside-hours transaction,Closed
+2412,509586,Outside-hours transaction,Open
+2413,507832,Failed transaction,Open
+2414,508428,Outside-hours transaction,Closed
+2415,508517,Outside-hours transaction,Closed
+2416,504963,Outside-hours transaction,Closed
+2417,507200,Outside-hours transaction,Closed
+2418,504043,Outside-hours transaction,Under Review
+2419,500942,Outside-hours transaction,Closed
+2420,500942,Failed transaction,Open
+2421,508040,Outside-hours transaction,Open
+2422,508554,Outside-hours transaction,Open
+2423,507275,Failed transaction,Open
+2424,504570,High-value transaction (>= 100000),Closed
+2425,507579,Outside-hours transaction,Closed
+2426,503230,Outside-hours transaction,Under Review
+2427,501478,Outside-hours transaction,Closed
+2428,502411,Outside-hours transaction,Open
+2429,509013,Outside-hours transaction,Closed
+2430,509701,Outside-hours transaction,Under Review
+2431,502804,Outside-hours transaction,Closed
+2432,502442,Outside-hours transaction,Closed
+2433,504521,Outside-hours transaction,Open
+2434,502849,Outside-hours transaction,Under Review
+2435,501375,Outside-hours transaction,Closed
+2436,502425,Outside-hours transaction,Closed
+2437,500905,High-value transaction (>= 100000),Under Review
+2438,500905,Outside-hours transaction,Closed
+2439,508738,Outside-hours transaction,Under Review
+2440,504951,Outside-hours transaction,Under Review
+2441,504264,Outside-hours transaction,Open
+2442,501285,Outside-hours transaction,Closed
+2443,503058,Outside-hours transaction,Under Review
+2444,507063,Outside-hours transaction,Under Review
+2445,505366,Outside-hours transaction,Under Review
+2446,508035,Outside-hours transaction,Open
+2447,508035,Failed transaction,Closed
+2448,506033,Outside-hours transaction,Open
+2449,501581,Outside-hours transaction,Open
+2450,503822,Outside-hours transaction,Under Review
+2451,501088,Outside-hours transaction,Under Review
+2452,500754,Outside-hours transaction,Under Review
+2453,508244,Outside-hours transaction,Under Review
+2454,509023,Outside-hours transaction,Open
+2455,509023,Failed transaction,Under Review
+2456,500493,Outside-hours transaction,Closed
+2457,504100,Outside-hours transaction,Open
+2458,503020,Failed transaction,Under Review
+2459,501256,Failed transaction,Closed
+2460,504247,Failed transaction,Under Review
+2461,505356,Failed transaction,Closed
+2462,506068,Outside-hours transaction,Under Review
+2463,502939,Outside-hours transaction,Under Review
+2464,504952,Outside-hours transaction,Open
+2465,504355,Outside-hours transaction,Under Review
+2466,506850,Outside-hours transaction,Closed
+2467,508133,Outside-hours transaction,Closed
+2468,508169,Outside-hours transaction,Open
+2469,500332,Outside-hours transaction,Under Review
+2470,507328,Outside-hours transaction,Open
+2471,509135,Failed transaction,Under Review
+2472,505289,Outside-hours transaction,Open
+2473,503939,Outside-hours transaction,Under Review
+2474,509394,Outside-hours transaction,Under Review
+2475,509652,Outside-hours transaction,Open
+2476,501592,Outside-hours transaction,Open
+2477,509369,Outside-hours transaction,Open
+2478,506421,Outside-hours transaction,Open
+2479,506840,Outside-hours transaction,Under Review
+2480,506840,Failed transaction,Under Review
+2481,500540,Failed transaction,Closed
+2482,504244,Failed transaction,Under Review
+2483,500238,Multiple transactions within 10 minutes,Open
+2484,500239,Multiple transactions within 10 minutes,Open
+2485,500240,Multiple transactions within 10 minutes,Under Review
+2486,508476,Failed transaction,Closed
+2487,504324,Outside-hours transaction,Closed
+2488,503972,Outside-hours transaction,Under Review
+2489,503972,Failed transaction,Open
+2490,501232,Outside-hours transaction,Open
+2491,508020,Outside-hours transaction,Under Review
+2492,502707,Outside-hours transaction,Closed
+2493,509103,Outside-hours transaction,Under Review
+2494,509217,Outside-hours transaction,Under Review
+2495,502662,Outside-hours transaction,Under Review
+2496,504560,Outside-hours transaction,Under Review
+2497,501918,Failed transaction,Open
+2498,505832,Failed transaction,Open
+2499,502788,Failed transaction,Under Review
+2500,505439,Outside-hours transaction,Closed
+2501,506595,Outside-hours transaction,Under Review
+2502,508665,Outside-hours transaction,Open
+2503,501585,Outside-hours transaction,Open
+2504,509525,Outside-hours transaction,Closed
+2505,507616,Outside-hours transaction,Under Review
+2506,505796,Outside-hours transaction,Open
+2507,504403,Failed transaction,Open
+2508,501896,Outside-hours transaction,Under Review
+2509,509481,Outside-hours transaction,Under Review
+2510,502096,Outside-hours transaction,Closed
+2511,509845,Outside-hours transaction,Closed
+2512,504587,Outside-hours transaction,Closed
+2513,504784,Outside-hours transaction,Under Review
+2514,507974,Outside-hours transaction,Under Review
+2515,506849,Outside-hours transaction,Closed
+2516,509541,Outside-hours transaction,Open
+2517,507461,Outside-hours transaction,Open
+2518,504640,Outside-hours transaction,Under Review
+2519,500368,Outside-hours transaction,Open
+2520,501252,Failed transaction,Under Review
+2521,500052,Multiple transactions within 10 minutes,Closed
+2522,500053,Multiple transactions within 10 minutes,Under Review
+2523,500054,Multiple transactions within 10 minutes,Under Review
+2524,508703,Outside-hours transaction,Under Review
+2525,507691,Outside-hours transaction,Open
+2526,500645,Outside-hours transaction,Under Review
+2527,506580,Outside-hours transaction,Open
+2528,500366,Outside-hours transaction,Closed
+2529,501216,Outside-hours transaction,Closed
+2530,508608,Outside-hours transaction,Open
+2531,501226,Outside-hours transaction,Under Review
+2532,503273,Outside-hours transaction,Closed
+2533,508706,Outside-hours transaction,Under Review
+2534,502459,Outside-hours transaction,Open
+2535,506969,Outside-hours transaction,Under Review
+2536,505384,Outside-hours transaction,Closed
+2537,502228,Failed transaction,Under Review
+2538,500707,Failed transaction,Closed
+2539,507669,Failed transaction,Under Review
+2540,503923,Failed transaction,Closed
+2541,503054,Outside-hours transaction,Closed
+2542,504357,Outside-hours transaction,Closed
+2543,505381,Outside-hours transaction,Open
+2544,501869,Outside-hours transaction,Open
+2545,509267,Outside-hours transaction,Open
+2546,507039,Outside-hours transaction,Under Review
+2547,507039,Failed transaction,Under Review
+2548,504889,High-value transaction (>= 100000),Under Review
+2549,504889,Outside-hours transaction,Closed
+2550,505621,Failed transaction,Under Review
+2551,505334,Outside-hours transaction,Open
+2552,506745,Outside-hours transaction,Open
+2553,507337,Outside-hours transaction,Closed
+2554,507337,Failed transaction,Closed
+2555,506422,Outside-hours transaction,Under Review
+2556,500837,Outside-hours transaction,Closed
+2557,501825,Outside-hours transaction,Open
+2558,506214,Outside-hours transaction,Open
+2559,507763,Outside-hours transaction,Open
+2560,502384,Outside-hours transaction,Open
+2561,504995,Outside-hours transaction,Closed
+2562,506567,Failed transaction,Under Review
+2563,502840,Outside-hours transaction,Under Review
+2564,501143,Outside-hours transaction,Closed
+2565,501450,Outside-hours transaction,Under Review
+2566,501450,Failed transaction,Open
+2567,507336,Outside-hours transaction,Closed
+2568,506903,Outside-hours transaction,Closed
+2569,507978,Outside-hours transaction,Open
+2570,506673,Outside-hours transaction,Under Review
+2571,501326,Failed transaction,Closed
+2572,506170,Outside-hours transaction,Under Review
+2573,505009,Outside-hours transaction,Open
+2574,507351,Outside-hours transaction,Under Review
+2575,509110,Outside-hours transaction,Closed
+2576,500571,Outside-hours transaction,Closed
+2577,500571,Failed transaction,Under Review
+2578,509461,Outside-hours transaction,Closed
+2579,507636,Outside-hours transaction,Under Review
+2580,506933,Outside-hours transaction,Closed
+2581,506355,Failed transaction,Closed
+2582,502828,Outside-hours transaction,Closed
+2583,503037,Outside-hours transaction,Under Review
+2584,508786,Outside-hours transaction,Closed
+2585,501278,Outside-hours transaction,Closed
+2586,501852,Outside-hours transaction,Under Review
+2587,504917,Outside-hours transaction,Under Review
+2588,507488,Failed transaction,Open
+2589,500175,Multiple transactions within 10 minutes,Under Review
+2590,500176,Multiple transactions within 10 minutes,Under Review
+2591,500177,Multiple transactions within 10 minutes,Closed
+2592,504093,Failed transaction,Open
+2593,505548,Outside-hours transaction,Under Review
+2594,503922,Outside-hours transaction,Closed
+2595,507626,Outside-hours transaction,Under Review
+2596,505486,Outside-hours transaction,Closed
+2597,501748,Outside-hours transaction,Closed
+2598,508365,Failed transaction,Closed
+2599,507820,Outside-hours transaction,Open
+2600,501849,Outside-hours transaction,Closed
+2601,504180,Outside-hours transaction,Under Review
+2602,505243,Outside-hours transaction,Under Review
+2603,509303,Failed transaction,Closed
+2604,501867,Outside-hours transaction,Closed
+2605,507013,Outside-hours transaction,Closed
+2606,503172,Outside-hours transaction,Open
+2607,506078,Outside-hours transaction,Closed
+2608,507873,Outside-hours transaction,Open
+2609,505943,Failed transaction,Closed
+2610,506892,Failed transaction,Under Review
+2611,501650,Outside-hours transaction,Open
+2612,503688,High-value transaction (>= 100000),Closed
+2613,503688,Outside-hours transaction,Closed
+2614,506399,Outside-hours transaction,Closed
+2615,503454,Outside-hours transaction,Closed
+2616,509062,Outside-hours transaction,Under Review
+2617,500782,Outside-hours transaction,Open
+2618,502538,Outside-hours transaction,Closed
+2619,507543,Outside-hours transaction,Open
+2620,507543,Failed transaction,Open
+2621,504213,Outside-hours transaction,Closed
+2622,506533,Outside-hours transaction,Closed
+2623,503271,Failed transaction,Open
+2624,505124,Failed transaction,Open
+2625,504616,Outside-hours transaction,Open
+2626,504546,Outside-hours transaction,Under Review
+2627,504546,Failed transaction,Under Review
+2628,506113,Outside-hours transaction,Under Review
+2629,508570,Outside-hours transaction,Open
+2630,506464,Outside-hours transaction,Under Review
+2631,508788,Outside-hours transaction,Closed
+2632,508409,Outside-hours transaction,Open
+2633,509797,Outside-hours transaction,Under Review
+2634,503541,Outside-hours transaction,Closed
+2635,507547,Outside-hours transaction,Closed
+2636,505447,Outside-hours transaction,Under Review
+2637,505447,Failed transaction,Closed
+2638,500756,Outside-hours transaction,Closed
+2639,506839,Outside-hours transaction,Open
+2640,509089,Failed transaction,Closed
+2641,506789,Failed transaction,Open
+2642,505738,Failed transaction,Closed
+2643,507071,Outside-hours transaction,Open
+2644,503051,Outside-hours transaction,Closed
+2645,503386,Outside-hours transaction,Under Review
+2646,506058,Outside-hours transaction,Closed
+2647,508065,Outside-hours transaction,Under Review
+2648,503749,Outside-hours transaction,Closed
+2649,505826,Outside-hours transaction,Under Review
+2650,506796,Outside-hours transaction,Under Review
+2651,507345,Failed transaction,Open
+2652,505146,Failed transaction,Under Review
+2653,508662,Failed transaction,Closed
+2654,505061,Failed transaction,Under Review
+2655,503165,Outside-hours transaction,Closed
+2656,503031,Outside-hours transaction,Under Review
+2657,503891,Outside-hours transaction,Closed
+2658,501311,Outside-hours transaction,Closed
+2659,502871,Outside-hours transaction,Closed
+2660,502352,Outside-hours transaction,Closed
+2661,503329,Failed transaction,Closed
+2662,502267,Failed transaction,Under Review
+2663,503478,Failed transaction,Closed
+2664,507465,Failed transaction,Under Review
+2665,507018,Failed transaction,Open
+2666,502362,Outside-hours transaction,Open
+2667,508990,Outside-hours transaction,Under Review
+2668,508990,Failed transaction,Closed
+2669,500618,Outside-hours transaction,Under Review
+2670,500996,Outside-hours transaction,Open
+2671,508543,Outside-hours transaction,Under Review
+2672,504912,Failed transaction,Under Review
+2673,502168,Failed transaction,Closed
+2674,508435,High-value transaction (>= 100000),Open
+2675,502262,Outside-hours transaction,Closed
+2676,506101,Outside-hours transaction,Closed
+2677,502069,Outside-hours transaction,Under Review
+2678,507960,Outside-hours transaction,Under Review
+2679,502581,Outside-hours transaction,Under Review
+2680,503770,Outside-hours transaction,Under Review
+2681,506532,Outside-hours transaction,Closed
+2682,501894,Outside-hours transaction,Closed
+2683,502163,Outside-hours transaction,Under Review
+2684,505869,Failed transaction,Under Review
+2685,503131,Failed transaction,Open
+2686,504217,High-value transaction (>= 100000),Closed
+2687,506475,Failed transaction,Closed
+2688,502317,Outside-hours transaction,Closed
+2689,509656,Outside-hours transaction,Under Review
+2690,504707,Outside-hours transaction,Under Review
+2691,509349,Outside-hours transaction,Under Review
+2692,502688,Outside-hours transaction,Open
+2693,507767,Outside-hours transaction,Under Review
+2694,506215,Outside-hours transaction,Open
+2695,509986,Failed transaction,Under Review
+2696,500438,Failed transaction,Closed
+2697,500691,Outside-hours transaction,Open
+2698,504910,Outside-hours transaction,Under Review
+2699,500363,Outside-hours transaction,Under Review
+2700,504567,Outside-hours transaction,Closed
+2701,508863,Outside-hours transaction,Under Review
+2702,505069,Outside-hours transaction,Closed
+2703,504049,Outside-hours transaction,Under Review
+2704,509025,Outside-hours transaction,Open
+2705,501495,Outside-hours transaction,Open
+2706,508530,Outside-hours transaction,Closed
+2707,500031,Multiple transactions within 10 minutes,Under Review
+2708,500032,Multiple transactions within 10 minutes,Closed
+2709,500033,Multiple transactions within 10 minutes,Closed
+2710,501675,Failed transaction,Under Review
+2711,508277,Outside-hours transaction,Open
+2712,505794,Outside-hours transaction,Open
+2713,503116,Outside-hours transaction,Closed
+2714,503116,Failed transaction,Closed
+2715,502046,Outside-hours transaction,Closed
+2716,502046,Failed transaction,Open
+2717,507560,Outside-hours transaction,Open
+2718,507560,Failed transaction,Open
+2719,506568,Outside-hours transaction,Closed
+2720,503340,Outside-hours transaction,Closed
+2721,507500,Outside-hours transaction,Open
+2722,501769,Outside-hours transaction,Closed
+2723,502301,Outside-hours transaction,Open
+2724,501621,Outside-hours transaction,Open
+2725,509329,Outside-hours transaction,Open
+2726,506368,Failed transaction,Under Review
+2727,504977,Failed transaction,Under Review
+2728,501746,Failed transaction,Closed
+2729,507784,Failed transaction,Under Review
+2730,502264,Outside-hours transaction,Open
+2731,502264,Failed transaction,Closed
+2732,504210,Outside-hours transaction,Open
+2733,506753,Outside-hours transaction,Open
+2734,505187,Outside-hours transaction,Closed
+2735,505187,Failed transaction,Open
+2736,503517,Outside-hours transaction,Under Review
+2737,501992,Outside-hours transaction,Closed
+2738,509751,Outside-hours transaction,Under Review
+2739,505284,Outside-hours transaction,Under Review
+2740,509609,Outside-hours transaction,Closed
+2741,509571,Outside-hours transaction,Open
+2742,508337,Failed transaction,Under Review
+2743,504880,Outside-hours transaction,Under Review
+2744,505226,Outside-hours transaction,Under Review
+2745,505226,Failed transaction,Closed
+2746,506161,Outside-hours transaction,Open
+2747,501822,Outside-hours transaction,Open
+2748,509614,Outside-hours transaction,Closed
+2749,509614,Failed transaction,Closed
+2750,504902,Outside-hours transaction,Open
+2751,504902,Failed transaction,Closed
+2752,503137,Outside-hours transaction,Closed
+2753,503282,Outside-hours transaction,Closed
+2754,506171,Failed transaction,Open
+2755,504042,Failed transaction,Open
+2756,501458,Outside-hours transaction,Under Review
+2757,502020,Outside-hours transaction,Open
+2758,509299,Outside-hours transaction,Open
+2759,502201,Outside-hours transaction,Under Review
+2760,503600,Outside-hours transaction,Under Review
+2761,505473,Outside-hours transaction,Open
+2762,506676,Outside-hours transaction,Closed
+2763,502312,Outside-hours transaction,Under Review
+2764,508704,Failed transaction,Open
+2765,509298,Outside-hours transaction,Open
+2766,504598,High-value transaction (>= 100000),Under Review
+2767,504598,Outside-hours transaction,Closed
+2768,505142,Outside-hours transaction,Closed
+2769,509186,High-value transaction (>= 100000),Open
+2770,509186,Outside-hours transaction,Under Review
+2771,502387,Outside-hours transaction,Under Review
+2772,501499,Outside-hours transaction,Under Review
+2773,500901,Outside-hours transaction,Closed
+2774,500142,Multiple transactions within 10 minutes,Closed
+2775,500143,Multiple transactions within 10 minutes,Closed
+2776,500143,Failed transaction,Under Review
+2777,500144,Multiple transactions within 10 minutes,Open
+2778,504573,Outside-hours transaction,Closed
+2779,503269,Outside-hours transaction,Under Review
+2780,501525,Outside-hours transaction,Under Review
+2781,503377,High-value transaction (>= 100000),Open
+2782,503377,Outside-hours transaction,Open
+2783,503377,Failed transaction,Under Review
+2784,504593,Failed transaction,Open
+2785,503434,Failed transaction,Closed
+2786,500422,Failed transaction,Under Review
+2787,505357,Outside-hours transaction,Closed
+2788,508467,Outside-hours transaction,Under Review
+2789,508467,Failed transaction,Closed
+2790,500664,Outside-hours transaction,Open
+2791,507460,Outside-hours transaction,Open
+2792,506612,Outside-hours transaction,Closed
+2793,501103,Failed transaction,Under Review
+2794,502567,Outside-hours transaction,Under Review
+2795,501536,Outside-hours transaction,Closed
+2796,502855,Outside-hours transaction,Closed
+2797,505691,Outside-hours transaction,Open
+2798,503369,Failed transaction,Open
+2799,507216,Failed transaction,Closed
+2800,500307,Failed transaction,Closed
+2801,500010,Multiple transactions within 10 minutes,Under Review
+2802,500011,Multiple transactions within 10 minutes,Under Review
+2803,500012,Multiple transactions within 10 minutes,Closed
+2804,505722,Failed transaction,Under Review
+2805,503872,Outside-hours transaction,Open
+2806,502609,Outside-hours transaction,Under Review
+2807,504024,Outside-hours transaction,Closed
+2808,502893,Outside-hours transaction,Open
+2809,501890,Outside-hours transaction,Open
+2810,506186,Outside-hours transaction,Open
+2811,505153,Failed transaction,Under Review
+2812,500154,Multiple transactions within 10 minutes,Under Review
+2813,500155,Multiple transactions within 10 minutes,Open
+2814,500156,Multiple transactions within 10 minutes,Open
+2815,509430,Outside-hours transaction,Under Review
+2816,505806,Outside-hours transaction,Under Review
+2817,505346,Outside-hours transaction,Open
+2818,503549,Outside-hours transaction,Under Review
+2819,509933,Outside-hours transaction,Under Review
+2820,500981,Outside-hours transaction,Under Review
+2821,505125,Outside-hours transaction,Under Review
+2822,506569,Outside-hours transaction,Closed
+2823,501882,Outside-hours transaction,Closed
+2824,501846,Failed transaction,Closed
+2825,504221,Failed transaction,Open
+2826,509819,Outside-hours transaction,Under Review
+2827,506185,Outside-hours transaction,Closed
+2828,505002,Outside-hours transaction,Under Review
+2829,502808,Outside-hours transaction,Closed
+2830,504153,Outside-hours transaction,Open
+2831,501779,Outside-hours transaction,Open
+2832,501779,Failed transaction,Closed
+2833,500046,Multiple transactions within 10 minutes,Open
+2834,500047,Multiple transactions within 10 minutes,Under Review
+2835,500048,Multiple transactions within 10 minutes,Under Review
+2836,500169,Multiple transactions within 10 minutes,Open
+2837,500170,High-value transaction (>= 100000),Under Review
+2838,500170,Multiple transactions within 10 minutes,Closed
+2839,500171,Multiple transactions within 10 minutes,Closed
+2840,509249,Outside-hours transaction,Closed
+2841,507331,Outside-hours transaction,Under Review
+2842,502504,Outside-hours transaction,Closed
+2843,500542,Outside-hours transaction,Open
+2844,505785,Outside-hours transaction,Closed
+2845,505754,Outside-hours transaction,Under Review
+2846,503893,Outside-hours transaction,Under Review
+2847,503893,Failed transaction,Closed
+2848,508629,Outside-hours transaction,Open
+2849,508629,Failed transaction,Open
+2850,507040,Outside-hours transaction,Open
+2851,503996,Failed transaction,Under Review
+2852,506814,Outside-hours transaction,Open
+2853,509768,Outside-hours transaction,Under Review
+2854,509862,Outside-hours transaction,Closed
+2855,500874,Outside-hours transaction,Closed
+2856,503547,Outside-hours transaction,Under Review
+2857,504608,Outside-hours transaction,Under Review
+2858,504608,Failed transaction,Closed
+2859,504833,Outside-hours transaction,Closed
+2860,509934,High-value transaction (>= 100000),Under Review
+2861,500133,Multiple transactions within 10 minutes,Closed
+2862,500134,Multiple transactions within 10 minutes,Closed
+2863,500135,Multiple transactions within 10 minutes,Open
+2864,509261,High-value transaction (>= 100000),Open
+2865,509261,Failed transaction,Closed
+2866,508002,Outside-hours transaction,Closed
+2867,503952,Outside-hours transaction,Open
+2868,505843,Outside-hours transaction,Closed
+2869,505533,Outside-hours transaction,Under Review
+2870,500734,Outside-hours transaction,Closed
+2871,504446,Outside-hours transaction,Closed
+2872,506763,Outside-hours transaction,Under Review
+2873,504968,Failed transaction,Open
+2874,507931,Failed transaction,Closed
+2875,500028,Multiple transactions within 10 minutes,Open
+2876,500029,Multiple transactions within 10 minutes,Open
+2877,500030,Multiple transactions within 10 minutes,Closed
+2878,509223,Failed transaction,Closed
+2879,506540,Outside-hours transaction,Open
+2880,500993,Outside-hours transaction,Closed
+2881,500993,Failed transaction,Closed
+2882,500898,Outside-hours transaction,Open
+2883,502630,Outside-hours transaction,Open
+2884,501104,Outside-hours transaction,Under Review
+2885,507341,Outside-hours transaction,Closed
+2886,502574,Failed transaction,Under Review
+2887,502768,Failed transaction,Open
+2888,500634,Outside-hours transaction,Closed
+2889,500634,Failed transaction,Open
+2890,509218,Outside-hours transaction,Closed
+2891,509820,Outside-hours transaction,Closed
+2892,504129,Outside-hours transaction,Under Review
+2893,502755,Outside-hours transaction,Open
+2894,502449,Outside-hours transaction,Closed
+2895,504224,Outside-hours transaction,Under Review
+2896,509458,Outside-hours transaction,Open
+2897,503285,Failed transaction,Under Review
+2898,508420,Failed transaction,Open
+2899,503854,Outside-hours transaction,Closed
+2900,500760,Outside-hours transaction,Under Review
+2901,505894,Outside-hours transaction,Under Review
+2902,504681,Outside-hours transaction,Closed
+2903,506728,Outside-hours transaction,Open
+2904,501762,Outside-hours transaction,Closed
+2905,503127,Outside-hours transaction,Under Review
+2906,507265,High-value transaction (>= 100000),Closed
+2907,507265,Outside-hours transaction,Under Review
+2908,509482,Outside-hours transaction,Closed
+2909,509972,Failed transaction,Open
+2910,508067,Outside-hours transaction,Under Review
+2911,506554,Outside-hours transaction,Under Review
+2912,502552,Outside-hours transaction,Open
+2913,509032,Outside-hours transaction,Closed
+2914,505898,Outside-hours transaction,Open
+2915,501233,Outside-hours transaction,Closed
+2916,502677,Outside-hours transaction,Open
+2917,502677,Failed transaction,Open
+2918,500076,Multiple transactions within 10 minutes,Under Review
+2919,500076,Failed transaction,Under Review
+2920,500077,Multiple transactions within 10 minutes,Closed
+2921,500078,Multiple transactions within 10 minutes,Open
+2922,504891,Failed transaction,Closed
+2923,501666,Outside-hours transaction,Open
+2924,508745,Outside-hours transaction,Open
+2925,500758,Outside-hours transaction,Under Review
+2926,503661,Outside-hours transaction,Open
+2927,504016,Outside-hours transaction,Under Review
+2928,508098,Outside-hours transaction,Under Review
+2929,505968,Outside-hours transaction,Open
+2930,505968,Failed transaction,Open
+2931,503175,Outside-hours transaction,Closed
+2932,501284,Outside-hours transaction,Closed
+2933,501881,Outside-hours transaction,Closed
+2934,504674,High-value transaction (>= 100000),Under Review
+2935,504674,Outside-hours transaction,Under Review
+2936,504674,Failed transaction,Under Review
+2937,505959,Outside-hours transaction,Under Review
+2938,507120,Outside-hours transaction,Under Review
+2939,507120,Failed transaction,Under Review
+2940,509776,Outside-hours transaction,Open
+2941,508479,Outside-hours transaction,Closed
+2942,501974,Outside-hours transaction,Closed
+2943,508378,Outside-hours transaction,Closed
+2944,508920,Failed transaction,Open
+2945,501491,Failed transaction,Closed
+2946,508091,Failed transaction,Under Review
+2947,503848,Failed transaction,Open
+2948,507126,Outside-hours transaction,Open
+2949,507421,Outside-hours transaction,Closed
+2950,507421,Failed transaction,Under Review
+2951,508093,Outside-hours transaction,Closed
+2952,509061,Outside-hours transaction,Open
+2953,505937,Outside-hours transaction,Closed
+2954,508631,Outside-hours transaction,Open
+2955,509251,Outside-hours transaction,Open
+2956,509879,Outside-hours transaction,Open
+2957,507530,Outside-hours transaction,Under Review
+2958,501046,Outside-hours transaction,Under Review
+2959,503425,Outside-hours transaction,Closed
+2960,507332,Outside-hours transaction,Closed
+2961,508529,Outside-hours transaction,Closed
+2962,502698,Outside-hours transaction,Under Review
+2963,502698,Failed transaction,Closed
+2964,508223,High-value transaction (>= 100000),Under Review
+2965,508223,Outside-hours transaction,Open
+2966,501219,Outside-hours transaction,Open
+2967,502205,Outside-hours transaction,Under Review
+2968,506232,High-value transaction (>= 100000),Under Review
+2969,506232,Outside-hours transaction,Open
+2970,508757,Failed transaction,Under Review
+2971,506729,Failed transaction,Open
+2972,500794,Outside-hours transaction,Closed
+2973,500794,Failed transaction,Open
+2974,505847,Outside-hours transaction,Open
+2975,506504,Outside-hours transaction,Closed
+2976,505360,High-value transaction (>= 100000),Under Review
+2977,507430,Failed transaction,Closed
+2978,501028,Outside-hours transaction,Open
+2979,506410,Outside-hours transaction,Open
+2980,504898,Outside-hours transaction,Open
+2981,508089,Outside-hours transaction,Open
+2982,500358,Outside-hours transaction,Open
+2983,502962,Outside-hours transaction,Closed
+2984,508760,Outside-hours transaction,Open
+2985,502592,Outside-hours transaction,Under Review
+2986,507116,Outside-hours transaction,Closed
+2987,505759,Outside-hours transaction,Closed
+2988,508487,Outside-hours transaction,Closed
+2989,506392,Outside-hours transaction,Open
+2990,504810,Outside-hours transaction,Open
+2991,509432,Outside-hours transaction,Closed
+2992,504234,Outside-hours transaction,Open
+2993,507877,Outside-hours transaction,Under Review
+2994,507854,Outside-hours transaction,Under Review
+2995,507591,Outside-hours transaction,Open
+2996,506256,Outside-hours transaction,Closed
+2997,500584,Failed transaction,Open
+2998,506896,Failed transaction,Open
+2999,502424,Failed transaction,Open
+3000,507965,Failed transaction,Closed
+3001,500148,Multiple transactions within 10 minutes,Under Review
+3002,500149,Multiple transactions within 10 minutes,Open
+3003,500149,Failed transaction,Closed
+3004,500150,Multiple transactions within 10 minutes,Closed
+3005,501365,Failed transaction,Under Review
+3006,500795,Outside-hours transaction,Closed
+3007,500795,Failed transaction,Closed
+3008,504580,Outside-hours transaction,Closed
+3009,502731,Outside-hours transaction,Under Review
+3010,506381,Outside-hours transaction,Open
+3011,502374,Outside-hours transaction,Under Review
+3012,505016,Outside-hours transaction,Open
+3013,506056,Failed transaction,Closed
+3014,504764,Outside-hours transaction,Closed
+3015,504737,Outside-hours transaction,Open
+3016,500348,Outside-hours transaction,Under Review
+3017,507233,Outside-hours transaction,Under Review
+3018,507233,Failed transaction,Under Review
+3019,506495,Outside-hours transaction,Open
+3020,506495,Failed transaction,Closed
+3021,505230,Outside-hours transaction,Closed
+3022,505230,Failed transaction,Closed
+3023,505073,Outside-hours transaction,Open
+3024,507409,Outside-hours transaction,Closed
+3025,500184,Multiple transactions within 10 minutes,Closed
+3026,500185,Multiple transactions within 10 minutes,Under Review
+3027,500186,Multiple transactions within 10 minutes,Closed
+3028,504537,Failed transaction,Under Review
+3029,508648,Failed transaction,Open
+3030,501628,Outside-hours transaction,Under Review
+3031,505929,Outside-hours transaction,Closed
+3032,508499,Outside-hours transaction,Closed
+3033,502011,Outside-hours transaction,Under Review
+3034,505455,Outside-hours transaction,Closed
+3035,507168,Outside-hours transaction,Under Review
+3036,507113,Outside-hours transaction,Closed
+3037,509961,Outside-hours transaction,Under Review
+3038,503576,Outside-hours transaction,Under Review
+3039,502343,Outside-hours transaction,Open
+3040,509019,Outside-hours transaction,Under Review
+3041,509086,Outside-hours transaction,Under Review
+3042,500843,Outside-hours transaction,Open
+3043,503744,Outside-hours transaction,Closed
+3044,505773,Outside-hours transaction,Under Review
+3045,506146,Outside-hours transaction,Open
+3046,500043,Multiple transactions within 10 minutes,Open
+3047,500044,Multiple transactions within 10 minutes,Under Review
+3048,500045,Multiple transactions within 10 minutes,Closed
+3049,506899,Outside-hours transaction,Open
+3050,508755,Outside-hours transaction,Under Review
+3051,506278,Outside-hours transaction,Open
+3052,504785,Outside-hours transaction,Closed
+3053,508024,Outside-hours transaction,Under Review
+3054,507632,Outside-hours transaction,Under Review
+3055,509371,Outside-hours transaction,Closed
+3056,504805,Outside-hours transaction,Closed
+3057,505131,Outside-hours transaction,Open
+3058,503874,Outside-hours transaction,Under Review
+3059,502331,Outside-hours transaction,Open
+3060,506322,Outside-hours transaction,Under Review
+3061,506322,Failed transaction,Open
+3062,509914,Failed transaction,Under Review
+3063,500892,Failed transaction,Closed
+3064,503034,Outside-hours transaction,Open
+3065,502001,Outside-hours transaction,Under Review
+3066,504761,Outside-hours transaction,Under Review
+3067,504868,Outside-hours transaction,Open
+3068,501403,Outside-hours transaction,Closed
+3069,501403,Failed transaction,Closed
+3070,501222,Outside-hours transaction,Open
+3071,507279,Outside-hours transaction,Open
+3072,507370,Outside-hours transaction,Under Review
+3073,504415,Outside-hours transaction,Under Review
+3074,509187,Failed transaction,Closed
+3075,506239,Failed transaction,Closed
+3076,504624,Failed transaction,Closed
+3077,504586,Failed transaction,Open
+3078,504492,Failed transaction,Open
+3079,501366,Outside-hours transaction,Open
+3080,508010,Outside-hours transaction,Closed
+3081,508010,Failed transaction,Closed
+3082,501609,Outside-hours transaction,Closed
+3083,501609,Failed transaction,Closed
+3084,500387,Outside-hours transaction,Open
+3085,502391,Outside-hours transaction,Under Review
+3086,503419,Outside-hours transaction,Open
+3087,508369,Outside-hours transaction,Under Review
+3088,508369,Failed transaction,Under Review
+3089,503195,Outside-hours transaction,Open
+3090,505183,Outside-hours transaction,Open
+3091,501385,Outside-hours transaction,Open
+3092,507081,Failed transaction,Closed
+3093,503905,Outside-hours transaction,Open
+3094,500642,Outside-hours transaction,Closed
+3095,501204,Outside-hours transaction,Under Review
+3096,509805,Outside-hours transaction,Open
+3097,509010,Outside-hours transaction,Closed
+3098,504602,Outside-hours transaction,Closed
+3099,509719,Outside-hours transaction,Closed
+3100,500007,Multiple transactions within 10 minutes,Open
+3101,500008,Multiple transactions within 10 minutes,Under Review
+3102,500009,Multiple transactions within 10 minutes,Open
+3103,505670,Failed transaction,Closed
+3104,507858,Outside-hours transaction,Under Review
+3105,502297,Outside-hours transaction,Under Review
+3106,506286,Outside-hours transaction,Under Review
+3107,503505,Outside-hours transaction,Under Review
+3108,502115,Outside-hours transaction,Closed
+3109,502620,Outside-hours transaction,Closed
+3110,508037,Outside-hours transaction,Under Review
+3111,508798,Outside-hours transaction,Under Review
+3112,501716,Outside-hours transaction,Under Review
+3113,501139,Outside-hours transaction,Under Review
+3114,505274,High-value transaction (>= 100000),Closed
+3115,505709,High-value transaction (>= 100000),Under Review
+3116,502333,Failed transaction,Under Review
+3117,506483,Outside-hours transaction,Open
+3118,504431,Outside-hours transaction,Closed
+3119,502292,Outside-hours transaction,Under Review
+3120,503764,Outside-hours transaction,Under Review
+3121,501471,Outside-hours transaction,Open
+3122,501241,Failed transaction,Under Review
+3123,503027,Outside-hours transaction,Under Review
+3124,500804,Outside-hours transaction,Under Review
+3125,503226,Outside-hours transaction,Open
+3126,507236,Outside-hours transaction,Closed
+3127,504756,Outside-hours transaction,Open
+3128,503004,Outside-hours transaction,Closed
+3129,501105,Outside-hours transaction,Open
+3130,508367,Outside-hours transaction,Open
+3131,508747,Outside-hours transaction,Under Review
+3132,501668,Failed transaction,Closed
+3133,504068,High-value transaction (>= 100000),Closed
+3134,503806,Failed transaction,Closed
+3135,505574,Failed transaction,Closed
+3136,501205,Failed transaction,Under Review
+3137,504390,Outside-hours transaction,Under Review
+3138,506992,Outside-hours transaction,Open
+3139,508356,Outside-hours transaction,Open
+3140,505164,Outside-hours transaction,Under Review
+3141,507100,Failed transaction,Open
+3142,500380,Failed transaction,Under Review
+3143,501092,Outside-hours transaction,Closed
+3144,509506,Outside-hours transaction,Open
+3145,501350,Outside-hours transaction,Under Review
+3146,501517,Outside-hours transaction,Closed
+3147,504632,Outside-hours transaction,Closed
+3148,504632,Failed transaction,Closed
+3149,509181,Outside-hours transaction,Under Review
+3150,502795,Outside-hours transaction,Under Review
+3151,502795,Failed transaction,Under Review
+3152,502629,Outside-hours transaction,Closed
+3153,507334,Failed transaction,Closed
+3154,503246,High-value transaction (>= 100000),Closed
+3155,504843,Failed transaction,Under Review
+3156,506797,Outside-hours transaction,Under Review
+3157,506194,Outside-hours transaction,Open
+3158,502392,Outside-hours transaction,Closed
+3159,507145,Outside-hours transaction,Under Review
+3160,509017,Outside-hours transaction,Open
+3161,504212,Failed transaction,Open
+3162,505298,Outside-hours transaction,Closed
+3163,504281,Outside-hours transaction,Closed
+3164,503659,Outside-hours transaction,Under Review
+3165,503659,Failed transaction,Open
+3166,507846,Failed transaction,Closed
+3167,503322,Outside-hours transaction,Closed
+3168,506762,Outside-hours transaction,Open
+3169,504504,Outside-hours transaction,Closed
+3170,505654,Outside-hours transaction,Open
+3171,509605,Outside-hours transaction,Open
+3172,508919,Outside-hours transaction,Closed
+3173,508762,Outside-hours transaction,Open
+3174,509250,Failed transaction,Open
+3175,502571,Failed transaction,Under Review
+3176,506902,Outside-hours transaction,Open
+3177,507791,Outside-hours transaction,Closed
+3178,506135,Outside-hours transaction,Open
+3179,507809,Outside-hours transaction,Open
+3180,502676,Outside-hours transaction,Closed
+3181,502047,Outside-hours transaction,Open
+3182,503657,Outside-hours transaction,Open
+3183,508086,Outside-hours transaction,Open
+3184,500369,Outside-hours transaction,Closed
+3185,507581,Outside-hours transaction,Under Review
+3186,503667,Failed transaction,Under Review
+3187,505176,Failed transaction,Open
+3188,505652,High-value transaction (>= 100000),Closed
+3189,503040,Outside-hours transaction,Closed
+3190,503906,Outside-hours transaction,Closed
+3191,504876,Outside-hours transaction,Closed
+3192,501461,Outside-hours transaction,Under Review
+3193,503608,Outside-hours transaction,Closed
+3194,503182,Outside-hours transaction,Under Review
+3195,503231,Outside-hours transaction,Open
+3196,503231,Failed transaction,Open
+3197,503008,Outside-hours transaction,Closed
+3198,509515,Outside-hours transaction,Closed
+3199,501804,Outside-hours transaction,Under Review
+3200,501659,Outside-hours transaction,Open
+3201,501659,Failed transaction,Open
+3202,505824,Outside-hours transaction,Closed
+3203,509408,Outside-hours transaction,Closed
+3204,501386,Failed transaction,Under Review
+3205,507999,High-value transaction (>= 100000),Closed
+3206,504462,Outside-hours transaction,Under Review
+3207,500378,Outside-hours transaction,Open
+3208,509808,Outside-hours transaction,Closed
+3209,507392,Outside-hours transaction,Closed
+3210,509133,Outside-hours transaction,Closed
+3211,504273,Outside-hours transaction,Under Review
+3212,502471,Outside-hours transaction,Open
+3213,506008,Failed transaction,Open
+3214,506290,Failed transaction,Open
+3215,506219,Failed transaction,Closed
+3216,509677,Failed transaction,Open
+3217,502835,Outside-hours transaction,Open
+3218,508931,Outside-hours transaction,Open
+3219,503865,Outside-hours transaction,Closed
+3220,506549,Outside-hours transaction,Closed
+3221,504380,Outside-hours transaction,Under Review
+3222,505487,Outside-hours transaction,Under Review
+3223,504940,Outside-hours transaction,Under Review
+3224,501559,Outside-hours transaction,Under Review
+3225,505426,Outside-hours transaction,Open
+3226,501873,Failed transaction,Under Review
+3227,509985,Failed transaction,Under Review
+3228,504241,Failed transaction,Under Review
+3229,504778,Failed transaction,Closed
+3230,505050,Failed transaction,Open
+3231,505778,Outside-hours transaction,Closed
+3232,505150,Outside-hours transaction,Open
+3233,507221,Outside-hours transaction,Under Review
+3234,509469,Outside-hours transaction,Closed
+3235,500697,Outside-hours transaction,Open
+3236,508693,Outside-hours transaction,Closed
+3237,508693,Failed transaction,Closed
+3238,509684,Outside-hours transaction,Open
+3239,501045,Outside-hours transaction,Open
+3240,503864,Outside-hours transaction,Under Review
+3241,500016,Multiple transactions within 10 minutes,Under Review
+3242,500017,Multiple transactions within 10 minutes,Under Review
+3243,500018,Multiple transactions within 10 minutes,Closed
+3244,500018,Failed transaction,Under Review
+3245,501595,Failed transaction,Open
+3246,507516,Failed transaction,Closed
+3247,507817,Failed transaction,Open
+3248,503758,Failed transaction,Closed
+3249,502558,Outside-hours transaction,Open
+3250,502340,Outside-hours transaction,Open
+3251,500309,Outside-hours transaction,Under Review
+3252,509739,Outside-hours transaction,Under Review
+3253,501133,Outside-hours transaction,Closed
+3254,508967,Outside-hours transaction,Under Review
+3255,507154,Failed transaction,Closed
+3256,500250,Multiple transactions within 10 minutes,Open
+3257,500251,Multiple transactions within 10 minutes,Closed
+3258,500252,Multiple transactions within 10 minutes,Open
+3259,506688,Outside-hours transaction,Open
+3260,505861,Outside-hours transaction,Open
+3261,501129,Outside-hours transaction,Closed
+3262,501372,Outside-hours transaction,Closed
+3263,509906,Outside-hours transaction,Under Review
+3264,509967,Outside-hours transaction,Under Review
+3265,508484,Outside-hours transaction,Open
+3266,507864,Outside-hours transaction,Open
+3267,509563,Outside-hours transaction,Closed
+3268,504006,Outside-hours transaction,Under Review
+3269,501758,Outside-hours transaction,Closed
+3270,507468,Failed transaction,Closed
+3271,502746,Failed transaction,Closed
+3272,504847,Outside-hours transaction,Open
+3273,503595,Outside-hours transaction,Open
+3274,509905,Outside-hours transaction,Under Review
+3275,505516,Outside-hours transaction,Open
+3276,508361,Outside-hours transaction,Open
+3277,501886,Outside-hours transaction,Closed
+3278,504931,Failed transaction,Open
+3279,502885,Failed transaction,Closed
+3280,506038,Failed transaction,Under Review
+3281,508782,Failed transaction,Open
+3282,508769,Outside-hours transaction,Under Review
+3283,508404,Outside-hours transaction,Open
+3284,500854,Outside-hours transaction,Closed
+3285,509643,Outside-hours transaction,Open
+3286,502223,Outside-hours transaction,Closed
+3287,506009,Outside-hours transaction,Under Review
+3288,506284,Outside-hours transaction,Closed
+3289,506035,Outside-hours transaction,Closed
+3290,503010,Failed transaction,Under Review
+3291,502832,Failed transaction,Under Review
+3292,504655,Failed transaction,Closed
+3293,505804,Outside-hours transaction,Open
+3294,502328,Outside-hours transaction,Closed
+3295,502708,Outside-hours transaction,Closed
+3296,504666,Outside-hours transaction,Open
+3297,504103,Outside-hours transaction,Closed
+3298,506373,Outside-hours transaction,Closed
+3299,501847,Outside-hours transaction,Under Review
+3300,505651,Outside-hours transaction,Open
+3301,503073,Outside-hours transaction,Open
+3302,504098,Outside-hours transaction,Under Review
+3303,507087,Failed transaction,Open
+3304,505743,High-value transaction (>= 100000),Open
+3305,505743,Failed transaction,Under Review
+3306,508450,Failed transaction,Closed
+3307,508170,Failed transaction,Closed
+3308,503512,Outside-hours transaction,Closed
+3309,507308,Outside-hours transaction,Under Review
+3310,507573,Outside-hours transaction,Under Review
+3311,509781,Outside-hours transaction,Open
+3312,501865,Outside-hours transaction,Closed
+3313,501865,Failed transaction,Under Review
+3314,501737,Outside-hours transaction,Under Review
+3315,508474,Outside-hours transaction,Under Review
+3316,507387,Outside-hours transaction,Open
+3317,500722,Failed transaction,Under Review
+3318,503912,Outside-hours transaction,Closed
+3319,507728,Outside-hours transaction,Under Review
+3320,502463,Outside-hours transaction,Under Review
+3321,500832,Outside-hours transaction,Open
+3322,501394,Outside-hours transaction,Closed
+3323,501162,Failed transaction,Closed
+3324,504307,Failed transaction,Closed
+3325,500112,Multiple transactions within 10 minutes,Under Review
+3326,500113,Multiple transactions within 10 minutes,Open
+3327,500114,Multiple transactions within 10 minutes,Closed
+3328,506319,Outside-hours transaction,Under Review
+3329,508012,Outside-hours transaction,Open
+3330,508012,Failed transaction,Closed
+3331,507440,Outside-hours transaction,Open
+3332,508505,Outside-hours transaction,Open
+3333,507117,Outside-hours transaction,Under Review
+3334,500019,Multiple transactions within 10 minutes,Open
+3335,500020,Multiple transactions within 10 minutes,Under Review
+3336,500021,Multiple transactions within 10 minutes,Closed
+3337,508134,High-value transaction (>= 100000),Closed
+3338,500121,Multiple transactions within 10 minutes,Open
+3339,500122,Multiple transactions within 10 minutes,Closed
+3340,500123,Multiple transactions within 10 minutes,Under Review
+3341,506351,Outside-hours transaction,Under Review
+3342,503542,Outside-hours transaction,Under Review
+3343,505068,Outside-hours transaction,Open
+3344,500447,Outside-hours transaction,Open
+3345,509382,Outside-hours transaction,Open
+3346,506566,Outside-hours transaction,Under Review
+3347,508209,Outside-hours transaction,Under Review
+3348,508810,Outside-hours transaction,Under Review
+3349,502888,Outside-hours transaction,Under Review
+3350,501021,Failed transaction,Open
+3351,503336,Failed transaction,Open
+3352,502843,Outside-hours transaction,Open
+3353,507000,Outside-hours transaction,Open
+3354,504225,Outside-hours transaction,Under Review
+3355,509139,Outside-hours transaction,Under Review
+3356,502359,Outside-hours transaction,Closed
+3357,505267,Outside-hours transaction,Closed
+3358,506741,Failed transaction,Closed
+3359,503816,High-value transaction (>= 100000),Under Review
+3360,501201,Outside-hours transaction,Open
+3361,501020,Outside-hours transaction,Open
+3362,502345,Outside-hours transaction,Open
+3363,509353,Outside-hours transaction,Under Review
+3364,506499,Outside-hours transaction,Closed
+3365,501955,Outside-hours transaction,Open
+3366,504316,Outside-hours transaction,Closed
+3367,506801,Outside-hours transaction,Closed
+3368,502736,Outside-hours transaction,Under Review
+3369,508008,Outside-hours transaction,Under Review
+3370,506057,Failed transaction,Open
+3371,505060,Failed transaction,Under Review
+3372,504387,Failed transaction,Under Review
+3373,504924,Outside-hours transaction,Under Review
+3374,506747,Outside-hours transaction,Open
+3375,500379,Outside-hours transaction,Closed
+3376,506055,Outside-hours transaction,Closed
+3377,506055,Failed transaction,Open
+3378,505178,Outside-hours transaction,Closed
+3379,501658,Outside-hours transaction,Closed
+3380,502836,Outside-hours transaction,Open
+3381,507735,Outside-hours transaction,Closed
+3382,509496,Outside-hours transaction,Under Review
+3383,500762,Outside-hours transaction,Open
+3384,503531,Failed transaction,Open
+3385,505730,Outside-hours transaction,Under Review
+3386,504704,Outside-hours transaction,Under Review
+3387,506048,Outside-hours transaction,Under Review
+3388,506048,Failed transaction,Under Review
+3389,501482,Outside-hours transaction,Open
+3390,503885,Outside-hours transaction,Open
+3391,508146,Outside-hours transaction,Open
+3392,500315,Outside-hours transaction,Under Review
+3393,504750,Outside-hours transaction,Under Review
+3394,504721,Failed transaction,Under Review
+3395,504416,Failed transaction,Under Review
+3396,501795,Failed transaction,Under Review
+3397,505097,High-value transaction (>= 100000),Open
+3398,506294,Failed transaction,Under Review
+3399,506167,Outside-hours transaction,Under Review
+3400,502432,Outside-hours transaction,Open
+3401,504404,Outside-hours transaction,Closed
+3402,502692,Failed transaction,Closed
+3403,503082,High-value transaction (>= 100000),Under Review
+3404,500280,Multiple transactions within 10 minutes,Closed
+3405,500281,Multiple transactions within 10 minutes,Closed
+3406,500282,Multiple transactions within 10 minutes,Open
+3407,500282,Failed transaction,Under Review
+3408,506330,Failed transaction,Open
+3409,509590,Outside-hours transaction,Open
+3410,504385,Outside-hours transaction,Under Review
+3411,505817,Outside-hours transaction,Open
+3412,501985,Outside-hours transaction,Under Review
+3413,501985,Failed transaction,Under Review
+3414,507750,Outside-hours transaction,Closed
+3415,504302,Outside-hours transaction,Under Review
+3416,505541,Failed transaction,Under Review
+3417,505740,Outside-hours transaction,Under Review
+3418,506702,Outside-hours transaction,Under Review
+3419,506003,Outside-hours transaction,Under Review
+3420,500100,Multiple transactions within 10 minutes,Closed
+3421,500101,Multiple transactions within 10 minutes,Closed
+3422,500102,Multiple transactions within 10 minutes,Open
+3423,504497,Failed transaction,Under Review
+3424,501456,Outside-hours transaction,Under Review
+3425,501456,Failed transaction,Closed
+3426,509027,Outside-hours transaction,Closed
+3427,505437,Outside-hours transaction,Open
+3428,500651,Outside-hours transaction,Under Review
+3429,508208,Outside-hours transaction,Under Review
+3430,502596,Outside-hours transaction,Open
+3431,502394,Outside-hours transaction,Under Review
+3432,506081,Outside-hours transaction,Under Review
+3433,501772,Outside-hours transaction,Under Review
+3434,505190,Outside-hours transaction,Closed
+3435,503859,Outside-hours transaction,Closed
+3436,509454,Outside-hours transaction,Closed
+3437,508187,Outside-hours transaction,Under Review
+3438,508187,Failed transaction,Closed
+3439,501175,Outside-hours transaction,Open
+3440,504548,Outside-hours transaction,Under Review
+3441,506732,High-value transaction (>= 100000),Under Review
+3442,506732,Outside-hours transaction,Under Review
+3443,500781,Outside-hours transaction,Under Review
+3444,506770,Outside-hours transaction,Under Review
+3445,506251,Outside-hours transaction,Open
+3446,508359,Outside-hours transaction,Closed
+3447,508502,Outside-hours transaction,Open
+3448,501445,Outside-hours transaction,Closed
+3449,505266,Outside-hours transaction,Closed
+3450,509912,Outside-hours transaction,Open
+3451,503863,Outside-hours transaction,Closed
+3452,504367,Outside-hours transaction,Closed
+3453,505914,Outside-hours transaction,Open
+3454,501254,Failed transaction,Closed
+3455,509497,High-value transaction (>= 100000),Under Review
+3456,509497,Failed transaction,Closed
+3457,500327,Outside-hours transaction,Open
+3458,506805,Outside-hours transaction,Under Review
+3459,508452,Outside-hours transaction,Under Review
+3460,509170,Outside-hours transaction,Closed
+3461,508142,Outside-hours transaction,Open
+3462,503510,Outside-hours transaction,Under Review
+3463,507538,Failed transaction,Closed
+3464,507291,Failed transaction,Under Review
+3465,508675,Outside-hours transaction,Open
+3466,506854,Outside-hours transaction,Closed
+3467,509770,Outside-hours transaction,Under Review
+3468,502203,Outside-hours transaction,Open
+3469,502284,Outside-hours transaction,Under Review
+3470,500861,Outside-hours transaction,Closed
+3471,505904,Outside-hours transaction,Open
+3472,509358,Outside-hours transaction,Closed
+3473,508692,Outside-hours transaction,Under Review
+3474,500172,Multiple transactions within 10 minutes,Under Review
+3475,500173,Multiple transactions within 10 minutes,Open
+3476,500174,Multiple transactions within 10 minutes,Under Review
+3477,505204,Failed transaction,Closed
+3478,504059,Outside-hours transaction,Under Review
+3479,501984,Outside-hours transaction,Closed
+3480,503462,Outside-hours transaction,Under Review
+3481,507526,Outside-hours transaction,Closed
+3482,502320,Outside-hours transaction,Closed
+3483,503374,Outside-hours transaction,Closed
+3484,506853,Outside-hours transaction,Under Review
+3485,509562,Failed transaction,Closed
+3486,501308,Outside-hours transaction,Open
+3487,508485,Outside-hours transaction,Under Review
+3488,508130,Outside-hours transaction,Closed
+3489,504751,Outside-hours transaction,Closed
+3490,501638,Outside-hours transaction,Closed
+3491,500525,Outside-hours transaction,Closed
+3492,507089,Outside-hours transaction,Open
+3493,500641,Outside-hours transaction,Open
+3494,505253,Outside-hours transaction,Open
+3495,507816,Failed transaction,Closed
+3496,507664,Failed transaction,Closed
+3497,509312,Failed transaction,Under Review
+3498,504190,Outside-hours transaction,Open
+3499,501661,Outside-hours transaction,Closed
+3500,500955,Outside-hours transaction,Closed
+3501,507132,Outside-hours transaction,Open
+3502,507132,Failed transaction,Closed
+3503,508985,Outside-hours transaction,Closed
+3504,506821,Outside-hours transaction,Closed
+3505,506821,Failed transaction,Closed
+3506,501709,Outside-hours transaction,Under Review
+3507,509935,Outside-hours transaction,Under Review
+3508,500508,Failed transaction,Under Review
+3509,507135,Outside-hours transaction,Open
+3510,503223,Outside-hours transaction,Open
+3511,505193,Outside-hours transaction,Open
+3512,509783,Outside-hours transaction,Under Review
+3513,501342,Outside-hours transaction,Open
+3514,501051,Outside-hours transaction,Closed
+3515,501703,High-value transaction (>= 100000),Closed
+3516,501703,Failed transaction,Closed
+3517,505764,Failed transaction,Closed
+3518,506439,Outside-hours transaction,Closed
+3519,501000,Outside-hours transaction,Closed
+3520,505566,Outside-hours transaction,Closed
+3521,503915,Outside-hours transaction,Open
+3522,509638,Outside-hours transaction,Under Review
+3523,507301,Outside-hours transaction,Under Review
+3524,505905,Outside-hours transaction,Under Review
+3525,501310,Outside-hours transaction,Under Review
+3526,500586,Failed transaction,Closed
+3527,503139,Failed transaction,Closed
+3528,508774,Failed transaction,Closed
+3529,503284,Outside-hours transaction,Closed
+3530,507413,Outside-hours transaction,Open
+3531,505769,Outside-hours transaction,Under Review
+3532,504577,Outside-hours transaction,Open
+3533,507140,Outside-hours transaction,Under Review
+3534,500973,Outside-hours transaction,Open
+3535,502684,Failed transaction,Under Review
+3536,508443,Outside-hours transaction,Under Review
+3537,507166,Outside-hours transaction,Open
+3538,503173,Outside-hours transaction,Open
+3539,503173,Failed transaction,Closed
+3540,504890,Outside-hours transaction,Open
+3541,506039,Outside-hours transaction,Under Review
+3542,508626,Outside-hours transaction,Under Review
+3543,505545,Outside-hours transaction,Under Review
+3544,503706,Outside-hours transaction,Under Review
+3545,507075,Outside-hours transaction,Open
+3546,503401,Outside-hours transaction,Closed
+3547,500360,Outside-hours transaction,Under Review
+3548,505336,Failed transaction,Under Review
+3549,508150,Outside-hours transaction,Under Review
+3550,509917,Outside-hours transaction,Open
+3551,505760,Outside-hours transaction,Under Review
+3552,507077,Outside-hours transaction,Closed
+3553,505220,Outside-hours transaction,Closed
+3554,505432,Outside-hours transaction,Under Review
+3555,503391,Outside-hours transaction,Under Review
+3556,502005,Outside-hours transaction,Open
+3557,501064,Failed transaction,Under Review
+3558,505875,Outside-hours transaction,Open
+3559,509425,Outside-hours transaction,Closed
+3560,508074,Outside-hours transaction,Open
+3561,504475,Outside-hours transaction,Open
+3562,503568,Outside-hours transaction,Under Review
+3563,502106,Failed transaction,Closed
+3564,505745,Failed transaction,Open
+3565,500151,Multiple transactions within 10 minutes,Closed
+3566,500152,Multiple transactions within 10 minutes,Open
+3567,500153,Multiple transactions within 10 minutes,Closed
+3568,506273,Outside-hours transaction,Open
+3569,508448,Outside-hours transaction,Closed
+3570,502759,Outside-hours transaction,Open
+3571,502904,Outside-hours transaction,Closed
+3572,502904,Failed transaction,Open
+3573,506891,Outside-hours transaction,Under Review
+3574,507001,Outside-hours transaction,Closed
+3575,501567,Outside-hours transaction,Under Review
+3576,504081,Outside-hours transaction,Under Review
+3577,504081,Failed transaction,Open
+3578,507959,Outside-hours transaction,Under Review
+3579,504413,Outside-hours transaction,Closed
+3580,503094,Failed transaction,Open
+3581,505341,Failed transaction,Open
+3582,500708,Outside-hours transaction,Closed
+3583,504020,Outside-hours transaction,Closed
+3584,502951,Outside-hours transaction,Under Review
+3585,501526,Outside-hours transaction,Under Review
+3586,502831,Outside-hours transaction,Open
+3587,506324,Outside-hours transaction,Closed
+3588,509064,Outside-hours transaction,Closed
+3589,504054,Outside-hours transaction,Open
+3590,509077,Outside-hours transaction,Under Review
+3591,509077,Failed transaction,Closed
+3592,502189,Failed transaction,Under Review
+3593,505653,High-value transaction (>= 100000),Under Review
+3594,503522,Outside-hours transaction,Open
+3595,502347,Outside-hours transaction,Closed
+3596,507585,Outside-hours transaction,Open
+3597,500906,Outside-hours transaction,Open
+3598,506036,Outside-hours transaction,Under Review
+3599,508328,Outside-hours transaction,Closed
+3600,500338,Outside-hours transaction,Open
+3601,501404,Outside-hours transaction,Closed
+3602,507522,Failed transaction,Open
+3603,503171,Failed transaction,Closed
+3604,504284,Failed transaction,Open
+3605,506722,Outside-hours transaction,Under Review
+3606,507807,Outside-hours transaction,Under Review
+3607,509235,Outside-hours transaction,Open
+3608,501462,Outside-hours transaction,Under Review
+3609,507713,Outside-hours transaction,Open
+3610,505188,Outside-hours transaction,Under Review
+3611,502732,Outside-hours transaction,Closed
+3612,507562,Outside-hours transaction,Under Review
+3613,509386,Outside-hours transaction,Closed
+3614,502663,Outside-hours transaction,Closed
+3615,501335,Outside-hours transaction,Under Review
+3616,509789,Failed transaction,Closed
+3617,500910,Failed transaction,Under Review
+3618,508095,Outside-hours transaction,Closed
+3619,504011,Outside-hours transaction,Under Review
+3620,507609,Outside-hours transaction,Closed
+3621,502859,Outside-hours transaction,Open
+3622,508310,Outside-hours transaction,Under Review
+3623,502433,Outside-hours transaction,Under Review
+3624,506780,Outside-hours transaction,Under Review
+3625,505802,Outside-hours transaction,Closed
+3626,508138,Failed transaction,Open
+3627,501240,Failed transaction,Closed
+3628,507742,Outside-hours transaction,Closed
+3629,507742,Failed transaction,Under Review
+3630,506245,Outside-hours transaction,Closed
+3631,509314,Outside-hours transaction,Closed
+3632,500127,Multiple transactions within 10 minutes,Open
+3633,500128,Multiple transactions within 10 minutes,Closed
+3634,500129,Multiple transactions within 10 minutes,Open
+3635,500292,Multiple transactions within 10 minutes,Under Review
+3636,500293,Multiple transactions within 10 minutes,Open
+3637,500294,Multiple transactions within 10 minutes,Open
+3638,505669,Failed transaction,Under Review
+3639,507876,Outside-hours transaction,Open
+3640,504499,High-value transaction (>= 100000),Open
+3641,504499,Outside-hours transaction,Under Review
+3642,502966,Outside-hours transaction,Closed
+3643,508427,Outside-hours transaction,Open
+3644,508427,Failed transaction,Closed
+3645,509414,Outside-hours transaction,Under Review
+3646,509414,Failed transaction,Under Review
+3647,507394,Outside-hours transaction,Closed
+3648,509404,Failed transaction,Open
+3649,507951,Outside-hours transaction,Closed
+3650,507344,Outside-hours transaction,Under Review
+3651,502568,Outside-hours transaction,Under Review
+3652,503163,Outside-hours transaction,Open
+3653,503163,Failed transaction,Under Review
+3654,509185,Outside-hours transaction,Closed
+3655,503115,Outside-hours transaction,Closed
+3656,508742,Outside-hours transaction,Closed
+3657,507212,Outside-hours transaction,Closed
+3658,500157,Multiple transactions within 10 minutes,Open
+3659,500158,Multiple transactions within 10 minutes,Closed
+3660,500159,Multiple transactions within 10 minutes,Open
+3661,506783,Failed transaction,Under Review
+3662,501074,Outside-hours transaction,Under Review
+3663,508199,Outside-hours transaction,Open
+3664,508867,Outside-hours transaction,Open
+3665,509647,Outside-hours transaction,Under Review
+3666,502597,Outside-hours transaction,Under Review
+3667,500401,Outside-hours transaction,Closed
+3668,509450,Outside-hours transaction,Open
+3669,508875,Outside-hours transaction,Under Review
+3670,506931,Outside-hours transaction,Open
+3671,503072,Outside-hours transaction,Under Review
+3672,500253,Multiple transactions within 10 minutes,Open
+3673,500254,Multiple transactions within 10 minutes,Open
+3674,500255,Multiple transactions within 10 minutes,Under Review
+3675,500187,Multiple transactions within 10 minutes,Closed
+3676,500188,Multiple transactions within 10 minutes,Closed
+3677,500189,Multiple transactions within 10 minutes,Closed
+3678,502781,Outside-hours transaction,Under Review
+3679,504914,Outside-hours transaction,Under Review
+3680,501334,Outside-hours transaction,Closed
+3681,509519,Outside-hours transaction,Under Review
+3682,503099,Outside-hours transaction,Under Review
+3683,507153,Failed transaction,Closed
+3684,500362,Outside-hours transaction,Under Review
+3685,501672,Outside-hours transaction,Under Review
+3686,508181,Outside-hours transaction,Open
+3687,501017,Outside-hours transaction,Open
+3688,505797,Outside-hours transaction,Closed
+3689,502418,Outside-hours transaction,Open
+3690,502161,Outside-hours transaction,Open
+3691,502161,Failed transaction,Under Review
+3692,508504,Outside-hours transaction,Open
+3693,507450,Outside-hours transaction,Under Review
+3694,507450,Failed transaction,Open
+3695,502782,Outside-hours transaction,Closed
+3696,507723,Outside-hours transaction,Under Review
+3697,502068,Outside-hours transaction,Open
+3698,504033,Outside-hours transaction,Under Review
+3699,504033,Failed transaction,Closed
+3700,507705,Outside-hours transaction,Closed
+3701,502346,Outside-hours transaction,Under Review
+3702,500061,Multiple transactions within 10 minutes,Closed
+3703,500062,Multiple transactions within 10 minutes,Closed
+3704,500063,Multiple transactions within 10 minutes,Open
+3705,505725,Failed transaction,Closed
+3706,506275,Outside-hours transaction,Open
+3707,505175,Outside-hours transaction,Under Review
+3708,505152,Outside-hours transaction,Closed
+3709,505152,Failed transaction,Under Review
+3710,506710,Outside-hours transaction,Closed
+3711,503384,Outside-hours transaction,Open
+3712,505390,Outside-hours transaction,Closed
+3713,508733,Outside-hours transaction,Under Review
+3714,504166,Failed transaction,Closed
+3715,509478,Outside-hours transaction,Open
+3716,506270,Outside-hours transaction,Under Review
+3717,501378,Outside-hours transaction,Open
+3718,501378,Failed transaction,Closed
+3719,505254,Outside-hours transaction,Closed
+3720,505395,Outside-hours transaction,Open
+3721,502980,Outside-hours transaction,Under Review
+3722,507868,Outside-hours transaction,Open
+3723,502426,Outside-hours transaction,Under Review
+3724,500965,Outside-hours transaction,Under Review
+3725,504668,Outside-hours transaction,Under Review
+3726,505196,Outside-hours transaction,Open
+3727,505196,Failed transaction,Under Review
+3728,502619,Outside-hours transaction,Open
+3729,503773,High-value transaction (>= 100000),Open
+3730,504840,Outside-hours transaction,Open
+3731,507509,Outside-hours transaction,Closed
+3732,508218,Outside-hours transaction,Closed
+3733,503707,Outside-hours transaction,Closed
+3734,503945,Outside-hours transaction,Under Review
+3735,508739,Outside-hours transaction,Closed
+3736,503502,Outside-hours transaction,Closed
+3737,506498,Outside-hours transaction,Closed
+3738,500453,Failed transaction,Under Review
+3739,502043,Outside-hours transaction,Open
+3740,506525,Outside-hours transaction,Closed
+3741,503289,Outside-hours transaction,Open
+3742,507121,Outside-hours transaction,Open
+3743,504860,Outside-hours transaction,Open
+3744,509847,Failed transaction,Open
+3745,500614,High-value transaction (>= 100000),Closed
+3746,503412,Failed transaction,Under Review
+3747,502380,Outside-hours transaction,Closed
+3748,507105,Outside-hours transaction,Under Review
+3749,505057,Outside-hours transaction,Closed
+3750,506259,Outside-hours transaction,Closed
+3751,500079,Multiple transactions within 10 minutes,Open
+3752,500080,Multiple transactions within 10 minutes,Under Review
+3753,500081,Multiple transactions within 10 minutes,Closed
+3754,503969,Outside-hours transaction,Under Review
+3755,508242,Outside-hours transaction,Under Review
+3756,507990,Outside-hours transaction,Closed
+3757,507278,Outside-hours transaction,Under Review
+3758,504437,Outside-hours transaction,Closed
+3759,507473,Outside-hours transaction,Closed
+3760,501785,Outside-hours transaction,Open
+3761,505450,Outside-hours transaction,Open
+3762,507061,Outside-hours transaction,Under Review
+3763,508275,Outside-hours transaction,Open
+3764,507059,Failed transaction,Under Review
+3765,500025,Multiple transactions within 10 minutes,Closed
+3766,500026,Multiple transactions within 10 minutes,Open
+3767,500027,Multiple transactions within 10 minutes,Closed
+3768,502737,Outside-hours transaction,Open
+3769,501986,Outside-hours transaction,Open
+3770,509055,Outside-hours transaction,Open
+3771,504759,Outside-hours transaction,Closed
+3772,504493,Outside-hours transaction,Under Review
+3773,505323,Outside-hours transaction,Open
+3774,506520,Outside-hours transaction,Closed
+3775,508416,Outside-hours transaction,Under Review
+3776,505113,Outside-hours transaction,Under Review
+3777,500862,Outside-hours transaction,Open
+3778,508525,Outside-hours transaction,Closed
+3779,508126,Outside-hours transaction,Closed
+3780,500610,Outside-hours transaction,Under Review
+3781,505729,Outside-hours transaction,Closed
+3782,509839,Outside-hours transaction,Under Review
+3783,502137,Outside-hours transaction,Under Review
+3784,502137,Failed transaction,Under Review
+3785,502367,Outside-hours transaction,Open
+3786,508176,Outside-hours transaction,Closed
+3787,501167,Outside-hours transaction,Open
+3788,503727,Outside-hours transaction,Under Review
+3789,505331,Failed transaction,Closed
+3790,509056,Failed transaction,Closed
+3791,504095,High-value transaction (>= 100000),Under Review
+3792,506507,Outside-hours transaction,Closed
+3793,505696,Outside-hours transaction,Under Review
+3794,501646,Outside-hours transaction,Under Review
+3795,506795,Outside-hours transaction,Under Review
+3796,502842,Outside-hours transaction,Under Review
+3797,507527,Outside-hours transaction,Closed
+3798,500924,Outside-hours transaction,Open
+3799,509522,Failed transaction,Closed
+3800,509241,Failed transaction,Open
+3801,501866,High-value transaction (>= 100000),Closed
+3802,506196,Failed transaction,Under Review
+3803,500833,Outside-hours transaction,Closed
+3804,506420,Outside-hours transaction,Closed
+3805,500572,Outside-hours transaction,Closed
+3806,509327,Outside-hours transaction,Under Review
+3807,509327,Failed transaction,Open
+3808,503157,Outside-hours transaction,Closed
+3809,507966,Outside-hours transaction,Under Review
+3810,504384,Outside-hours transaction,Open
+3811,506694,Outside-hours transaction,Under Review
+3812,501123,Outside-hours transaction,Open
+3813,500136,Multiple transactions within 10 minutes,Under Review
+3814,500137,Multiple transactions within 10 minutes,Under Review
+3815,500138,Multiple transactions within 10 minutes,Under Review
+3816,500138,Failed transaction,Under Review
+3817,500229,Multiple transactions within 10 minutes,Under Review
+3818,500229,Failed transaction,Closed
+3819,500230,Multiple transactions within 10 minutes,Closed
+3820,500231,Multiple transactions within 10 minutes,Open
+3821,502763,Failed transaction,Closed
+3822,502872,Outside-hours transaction,Under Review
+3823,501750,Outside-hours transaction,Under Review
+3824,502826,Outside-hours transaction,Closed
+3825,502957,Outside-hours transaction,Open
+3826,500202,Multiple transactions within 10 minutes,Open
+3827,500203,Multiple transactions within 10 minutes,Open
+3828,500204,Multiple transactions within 10 minutes,Closed
+3829,508620,Failed transaction,Under Review
+3830,509733,Failed transaction,Open
+3831,506370,Outside-hours transaction,Open
+3832,500812,Outside-hours transaction,Open
+3833,506916,Outside-hours transaction,Under Review
+3834,507213,Outside-hours transaction,Under Review
+3835,507213,Failed transaction,Open
+3836,501511,Outside-hours transaction,Under Review
+3837,500217,Multiple transactions within 10 minutes,Open
+3838,500218,Multiple transactions within 10 minutes,Closed
+3839,500219,Multiple transactions within 10 minutes,Open
+3840,505081,Failed transaction,Closed
+3841,502114,High-value transaction (>= 100000),Under Review
+3842,502213,High-value transaction (>= 100000),Open
+3843,510000,Outside-hours transaction,Under Review
+3844,507298,Outside-hours transaction,Open
+3845,507274,Outside-hours transaction,Closed
+3846,509385,Failed transaction,Under Review
+3847,502587,Failed transaction,Under Review
+3848,506457,Outside-hours transaction,Open
+3849,506457,Failed transaction,Under Review
+3850,504773,Outside-hours transaction,Closed
+3851,506787,Outside-hours transaction,Closed
+3852,505534,Outside-hours transaction,Open
+3853,505534,Failed transaction,Open
+3854,500717,Outside-hours transaction,Under Review
+3855,509954,Outside-hours transaction,Closed
+3856,509954,Failed transaction,Under Review
+3857,500274,Multiple transactions within 10 minutes,Closed
+3858,500275,Multiple transactions within 10 minutes,Closed
+3859,500276,Multiple transactions within 10 minutes,Open
+3860,503756,Failed transaction,Under Review
+3861,500232,Multiple transactions within 10 minutes,Closed
+3862,500233,Multiple transactions within 10 minutes,Open
+3863,500234,Multiple transactions within 10 minutes,Closed
+3864,509338,Failed transaction,Open
+3865,505373,Outside-hours transaction,Open
+3866,509645,Outside-hours transaction,Open
+3867,505058,Outside-hours transaction,Under Review
+3868,502450,Outside-hours transaction,Open
+3869,508143,Outside-hours transaction,Open
+3870,501406,Outside-hours transaction,Closed
+3871,508901,Failed transaction,Open
+3872,502324,Outside-hours transaction,Closed
+3873,507896,Outside-hours transaction,Closed
+3874,506180,Outside-hours transaction,Under Review
+3875,502150,Outside-hours transaction,Open
+3876,507138,Outside-hours transaction,Open
+3877,505697,Outside-hours transaction,Closed
+3878,505697,Failed transaction,Under Review
+3879,508408,Outside-hours transaction,Open
+3880,500684,Outside-hours transaction,Under Review
+3881,502883,Failed transaction,Closed
+3882,508441,Failed transaction,Open
+3883,502726,Outside-hours transaction,Under Review
+3884,502726,Failed transaction,Open
+3885,504746,Outside-hours transaction,Open
+3886,504746,Failed transaction,Under Review
+3887,508986,Outside-hours transaction,Open
+3888,500805,Outside-hours transaction,Closed
+3889,506474,Failed transaction,Open
+3890,504766,Failed transaction,Open
+3891,507514,Outside-hours transaction,Under Review
+3892,507514,Failed transaction,Under Review
+3893,502969,Outside-hours transaction,Under Review
+3894,504245,Outside-hours transaction,Open
+3895,501685,Outside-hours transaction,Under Review
+3896,502112,Outside-hours transaction,Open
+3897,508950,Outside-hours transaction,Closed
+3898,501231,Outside-hours transaction,Closed
+3899,501898,Outside-hours transaction,Open
+3900,501898,Failed transaction,Open
+3901,506663,Outside-hours transaction,Closed
+3902,502730,Outside-hours transaction,Closed
+3903,500416,Outside-hours transaction,Open
+3904,509009,Outside-hours transaction,Closed
+3905,509009,Failed transaction,Closed
+3906,505608,Outside-hours transaction,Open
+3907,504201,Outside-hours transaction,Under Review
+3908,505512,Failed transaction,Under Review
+3909,501752,Failed transaction,Closed
+3910,509266,Outside-hours transaction,Open
+3911,503069,Outside-hours transaction,Closed
+3912,505283,Outside-hours transaction,Closed
+3913,501768,Outside-hours transaction,Open
+3914,501662,Outside-hours transaction,Under Review
+3915,508285,Outside-hours transaction,Closed
+3916,502550,Outside-hours transaction,Closed
+3917,502421,Outside-hours transaction,Under Review
+3918,504821,Outside-hours transaction,Open
+3919,507014,Outside-hours transaction,Open
+3920,502245,Failed transaction,Open
+3921,501448,Outside-hours transaction,Open
+3922,505197,Outside-hours transaction,Open
+3923,500534,Outside-hours transaction,Closed
+3924,509209,Outside-hours transaction,Closed
+3925,500398,Outside-hours transaction,Under Review
+3926,506599,Outside-hours transaction,Under Review
+3927,500802,Failed transaction,Under Review
+3928,503655,Failed transaction,Under Review
+3929,508099,Outside-hours transaction,Open
+3930,509856,Outside-hours transaction,Open
+3931,507957,Outside-hours transaction,Under Review
+3932,505701,Outside-hours transaction,Closed
+3933,501268,Outside-hours transaction,Open
+3934,509795,Outside-hours transaction,Open
+3935,502769,Outside-hours transaction,Closed
+3936,502167,Outside-hours transaction,Closed
+3937,504233,Outside-hours transaction,Closed
+3938,508227,Outside-hours transaction,Closed
+3939,503817,Outside-hours transaction,Closed
+3940,508842,Outside-hours transaction,Under Review
+3941,507718,Failed transaction,Closed
+3942,501212,Outside-hours transaction,Open
+3943,506455,Outside-hours transaction,Closed
+3944,503168,Outside-hours transaction,Under Review
+3945,505438,Outside-hours transaction,Open
+3946,509952,Outside-hours transaction,Closed
+3947,507955,Failed transaction,Closed
+3948,503393,High-value transaction (>= 100000),Closed
+3949,505295,Failed transaction,Open
+3950,500852,Outside-hours transaction,Closed
+3951,508694,Outside-hours transaction,Under Review
+3952,504476,Outside-hours transaction,Under Review
+3953,509832,Outside-hours transaction,Closed
+3954,504829,Outside-hours transaction,Open
+3955,509554,Outside-hours transaction,Open
+3956,504687,Outside-hours transaction,Under Review
+3957,508551,Outside-hours transaction,Under Review
+3958,505466,Outside-hours transaction,Open
+3959,503428,Outside-hours transaction,Open
+3960,500637,Outside-hours transaction,Under Review
+3961,500302,Outside-hours transaction,Closed
+3962,507981,Outside-hours transaction,Closed
+3963,502646,Outside-hours transaction,Open
+3964,509282,Failed transaction,Closed
+3965,502771,Failed transaction,Open
+3966,503400,Outside-hours transaction,Under Review
+3967,509491,Outside-hours transaction,Under Review
+3968,504526,Outside-hours transaction,Open
+3969,504990,Outside-hours transaction,Under Review
+3970,500745,Outside-hours transaction,Closed
+3971,506190,Outside-hours transaction,Under Review
+3972,505440,Failed transaction,Under Review
+3973,503855,Outside-hours transaction,Closed
+3974,508410,Outside-hours transaction,Closed
+3975,506542,Outside-hours transaction,Open
+3976,500629,Outside-hours transaction,Under Review
+3977,505235,Outside-hours transaction,Open
+3978,509346,Outside-hours transaction,Open
+3979,503376,Outside-hours transaction,Closed
+3980,500663,Outside-hours transaction,Open
+3981,509325,Outside-hours transaction,Open
+3982,504339,Outside-hours transaction,Under Review
+3983,504618,Outside-hours transaction,Open
+3984,506126,Outside-hours transaction,Open
+3985,508254,Outside-hours transaction,Open
+3986,508166,Outside-hours transaction,Under Review
+3987,504094,Outside-hours transaction,Closed
+3988,508787,Outside-hours transaction,Under Review
+3989,508787,Failed transaction,Closed
+3990,509204,Outside-hours transaction,Closed
+3991,500558,High-value transaction (>= 100000),Closed
+3992,500558,Failed transaction,Under Review
+3993,503414,Outside-hours transaction,Under Review
+3994,500552,Outside-hours transaction,Closed
+3995,508237,Outside-hours transaction,Under Review
+3996,504381,Outside-hours transaction,Open
+3997,501415,Outside-hours transaction,Closed
+3998,504693,Outside-hours transaction,Closed
+3999,506713,Outside-hours transaction,Closed
+4000,501982,Outside-hours transaction,Closed
+4001,509443,Outside-hours transaction,Open
+4002,507388,Outside-hours transaction,Under Review
+4003,505556,Failed transaction,Open
+4004,509844,Failed transaction,Under Review
+4005,502122,Outside-hours transaction,Open
+4006,502543,Outside-hours transaction,Closed
+4007,507502,Outside-hours transaction,Open
+4008,507502,Failed transaction,Open
+4009,503723,High-value transaction (>= 100000),Closed
+4010,503723,Outside-hours transaction,Under Review
+4011,503294,Outside-hours transaction,Under Review
+4012,504017,High-value transaction (>= 100000),Closed
+4013,504017,Outside-hours transaction,Closed
+4014,506552,Failed transaction,Closed
+4015,507146,Outside-hours transaction,Closed
+4016,508516,Outside-hours transaction,Closed
+4017,502599,Outside-hours transaction,Open
+4018,503146,Outside-hours transaction,Under Review
+4019,509536,Outside-hours transaction,Closed
+4020,502901,Outside-hours transaction,Under Review
+4021,501634,Outside-hours transaction,Closed
+4022,501381,Outside-hours transaction,Open
+4023,507263,Outside-hours transaction,Open
+4024,506063,Outside-hours transaction,Open
+4025,502937,Outside-hours transaction,Open
+4026,502937,Failed transaction,Under Review
+4027,502593,Outside-hours transaction,Open
+4028,503500,Outside-hours transaction,Under Review
+4029,504396,Outside-hours transaction,Closed
+4030,504827,Outside-hours transaction,Closed
+4031,505903,Outside-hours transaction,Open
+4032,503194,Failed transaction,Under Review
+4033,503578,Failed transaction,Closed
+4034,502814,Outside-hours transaction,Closed
+4035,502783,Outside-hours transaction,Closed
+4036,502805,Outside-hours transaction,Closed
+4037,503331,Outside-hours transaction,Open
+4038,500449,Outside-hours transaction,Open
+4039,501032,Outside-hours transaction,Open
+4040,501304,Outside-hours transaction,Closed
+4041,503771,Outside-hours transaction,Open
+4042,501400,Outside-hours transaction,Closed
+4043,509370,Outside-hours transaction,Open
+4044,509370,Failed transaction,Open
+4045,508447,Outside-hours transaction,Under Review
+4046,503189,Outside-hours transaction,Under Review
+4047,508606,Outside-hours transaction,Closed
+4048,502911,Failed transaction,Closed
+4049,503843,Outside-hours transaction,Closed
+4050,509179,Outside-hours transaction,Under Review
