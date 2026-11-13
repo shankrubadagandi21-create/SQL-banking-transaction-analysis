@@ -66,4 +66,17 @@ An unusual transaction is considered an anomaly candidate and does not automatic
 
 Data analytics
 
+## Project Screenshots
+
+### 1. Database Tables
+![Database Tables](screenshots/01_database_tables.png)
+
+### 2. Data Validation
+![Data Validation](screenshots/02_data_validation.png)
+
+### 3. Transaction Analysis
+![Transaction Analysis](screenshots/03_transaction_analysis.png)
+
+### 4. Anomaly Detection
+![Anomaly Detection](screenshots/04_anomaly_detection.png)
 
